@@ -18,7 +18,7 @@
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | [Ruby](./algorithms/medium/wiggle_sort_2.rb)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges) | [Ruby](./algorithms/medium/summary_ranges.rb)|Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Ruby](./algorithms/easy/contains_duplicate_2.rb)|Easy|
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Ruby(broken)](./algorithms/medium/kth_largest_element_in_an_array.rb)|Medium|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Ruby](./algorithms/medium/kth_largest_element_in_an_array.rb)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array) | [Ruby](./algorithms/easy/rotate_array.rb)|Easy|
 |179|[Largest Number](https://leetcode.com/problems/largest-number) | [Ruby](./algorithms/medium/largest_number.rb)|Medium|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Ruby](./algorithms/easy/factorial_trailing_zeroes.rb)|Easy|
@@ -27,7 +27,7 @@
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [Ruby](./algorithms/easy/excel_sheet_column_title.rb)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Ruby](./algorithms/easy/two_sum_2.rb)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [Ruby](./algorithms/easy/min_stack.rb)|Easy|
-|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [Ruby(broken)](./algorithms/hard/find_minimum_in_rotated_sorted_array_2.rb)|Hard|
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [Ruby](./algorithms/hard/find_minimum_in_rotated_sorted_array_2.rb)|Hard|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | [Ruby](./algorithms/hard/max_points_on_a_line.rb)|Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number) | [Ruby](./algorithms/easy/single_number.rb)|Easy|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | [Ruby](./algorithms/hard/word_ladder_2.rb)|Hard|
@@ -40,12 +40,17 @@
 |61|[Rotate List](https://leetcode.com/problems/rotate-list) | [Ruby](./algorithms/medium/rotate_list.rb)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game) | [Ruby](./algorithms/medium/jump_game.rb)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n) | [Ruby](./algorithms/medium/pow_x_n.rb)|Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Ruby](./algorithms/hard/trapping_rain_water.rb)|Hard|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Ruby](./algorithms/hard/longest_valid_parentheses.rb)|Hard|
 |18|[4Sum](https://leetcode.com/problems/4sum) | [Ruby](./algorithms/medium/4sum.rb)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum) | [Ruby](./algorithms/medium/3sum.rb)|Medium|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Ruby](./algorithms/medium/container_with_most_water.rb)|Medium|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Ruby](./algorithms/easy/palindrome_number.rb)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Ruby](./algorithms/medium/string_to_integer.rb)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Ruby](./algorithms/easy/reverse_integer.rb)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [Ruby](./algorithms/medium/zigzag_conversion.rb)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Ruby](./algorithms/medium/longest_palindromic_substring.rb)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Ruby](./algorithms/hard/median_of_two_sorted_arrays.rb)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Ruby](./algorithms/medium/longest_substring_without_repeating_characters.rb)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Ruby](./algorithms/medium/add_two_numbers.rb)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum) | [Ruby](./algorithms/easy/two_sum.rb)|Easy|
