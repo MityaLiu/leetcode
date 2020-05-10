@@ -50,6 +50,12 @@ Layout/ParameterAlignment:
 Layout/SpaceAroundMethodCallOperator:
   Enabled: true
 
+Lint/EmptyWhen:
+  Enabled: false
+
+Lint/LiteralAsCondition:
+  Enabled: false
+
 Lint/RaiseException:
   Enabled: true
 
@@ -57,10 +63,13 @@ Lint/StructNewOverride:
   Enabled: true
 
 Metrics/AbcSize:
-  Max: 100
+  Max: 500
 
 Metrics/BlockLength:
   Max: 300
+
+Metrics/BlockNesting:
+  Enabled: false
 
 Metrics/ClassLength:
   Max: 200
@@ -74,7 +83,13 @@ Metrics/MethodLength:
 Metrics/PerceivedComplexity:
   Max: 15
 
+Naming/AccessorMethodName:
+  Enabled: false
+
 Naming/MethodParameterName:
+  Enabled: false
+
+Naming/PredicateName:
   Enabled: false
 
 Style/AccessModifierDeclarations:
@@ -89,6 +104,9 @@ Style/Documentation:
 Style/GuardClause:
   Enabled: false
 
+Style/IfInsideElse:
+  Enabled: false
+
 Style/IfUnlessModifier:
   Enabled: false
 
@@ -96,6 +114,9 @@ Style/Lambda:
   EnforcedStyle: literal
 
 Style/NumericLiterals:
+  Enabled: false
+
+Style/NumericPredicate:
   Enabled: false
 
 Style/HashEachMethods:
