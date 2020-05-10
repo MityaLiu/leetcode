@@ -11,6 +11,9 @@
 |837|[New 21 Game](https://leetcode.com/problems/new-21-game) | [Ruby](./algorithms/medium/new_21_game.rb)|Medium|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) | [Ruby](./algorithms/medium/split_linked_list_in_parts.rb)|Medium|
 |722|[Remove Comments](https://leetcode.com/problems/remove-comments) | [Ruby](./algorithms/medium/remove_comments.rb)|Medium|
+|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | [Ruby](./algorithms/medium/find_duplicate_subtrees.rb)|Medium|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | [Ruby](./algorithms/easy/construct_string_from_binary_tree.rb)|Easy|
+|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | [Ruby](./algorithms/easy/binary_tree_tilt.rb)|Easy|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop) | [Ruby](./algorithms/medium/circular_array_loop.rb)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [Ruby](./algorithms/medium/remove_k_digits.rb)|Medium|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game) | [Ruby](./algorithms/medium/elimination_game.rb)|Medium|
