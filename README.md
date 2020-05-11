@@ -9,8 +9,14 @@
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [Ruby](./algorithms/medium/smallest_integer_divisible_by_k.rb)|Medium|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) | [Ruby](./algorithms/easy/magic_squares_in_grid.rb)|Easy|
 |837|[New 21 Game](https://leetcode.com/problems/new-21-game) | [Ruby](./algorithms/medium/new_21_game.rb)|Medium|
+|783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [Ruby](./algorithms/easy/minimum_absolute_difference_in_bst.rb)|Easy|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) | [Ruby](./algorithms/medium/split_linked_list_in_parts.rb)|Medium|
 |722|[Remove Comments](https://leetcode.com/problems/remove-comments) | [Ruby](./algorithms/medium/remove_comments.rb)|Medium|
+|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | [Ruby](./algorithms/medium/find_duplicate_subtrees.rb)|Medium|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | [Ruby](./algorithms/easy/construct_string_from_binary_tree.rb)|Easy|
+|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | [Ruby](./algorithms/easy/binary_tree_tilt.rb)|Easy|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Ruby](./algorithms/easy/k_diff_pairs_in_an_array.rb)|Easy|
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [Ruby](./algorithms/easy/minimum_absolute_difference_in_bst.rb)|Easy|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop) | [Ruby](./algorithms/medium/circular_array_loop.rb)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [Ruby](./algorithms/medium/remove_k_digits.rb)|Medium|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game) | [Ruby](./algorithms/medium/elimination_game.rb)|Medium|
@@ -32,6 +38,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number) | [Ruby](./algorithms/easy/single_number.rb)|Easy|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | [Ruby](./algorithms/hard/word_ladder_2.rb)|Hard|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Ruby](./algorithms/medium/validate_binary_search_tree.rb)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Ruby](./algorithms/medium/binary_tree_inorder_traversal.rb)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Ruby](./algorithms/easy/remove_duplicates_from_sorted_list.rb)|Easy|
 |79|[Word Search](https://leetcode.com/problems/word-search) | [Ruby](./algorithms/medium/word_search.rb)|Medium|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path) | [Ruby](./algorithms/medium/simplify_path.rb)|Medium|
