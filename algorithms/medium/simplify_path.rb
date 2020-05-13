@@ -5,7 +5,7 @@
 def simplify_path(path)
   d = path.split('/').reject { |w| w.nil? || w.empty? }
 
-  r = d.each_with_object([]).with_index do |(q, result), _i|
+  r = d.each_with_object([]) do |q, result|
     case q
     when '.'
     when '..'
