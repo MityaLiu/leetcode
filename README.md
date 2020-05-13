@@ -4,6 +4,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree) | [Ruby](./algorithms/medium/minimum_time_to_collect_all_apples_in_a_tree.rb)|Medium|
 |1386|[Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) | [Ruby](./algorithms/medium/cinema_seat_allocation.rb)|Medium|
 |1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii) | [Ruby](./algorithms/medium/ugly_number_3.rb)|Medium|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [Ruby](./algorithms/medium/smallest_integer_divisible_by_k.rb)|Medium|
@@ -53,9 +54,7 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n) | [Ruby](./algorithms/medium/pow_x_n.rb)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Ruby](./algorithms/hard/trapping_rain_water.rb)|Hard|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Ruby](./algorithms/hard/longest_valid_parentheses.rb)|Hard|
-
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Ruby](./algorithms/medium/divide_two_integers.rb)|Medium|
-
 |18|[4Sum](https://leetcode.com/problems/4sum) | [Ruby](./algorithms/medium/4sum.rb)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Ruby](./algorithms/medium/letter_combinations_of_a_phone_number.rb)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum) | [Ruby](./algorithms/medium/3sum.rb)|Medium|
