@@ -54,9 +54,7 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n) | [Ruby](./algorithms/medium/pow_x_n.rb)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Ruby](./algorithms/hard/trapping_rain_water.rb)|Hard|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Ruby](./algorithms/hard/longest_valid_parentheses.rb)|Hard|
-
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Ruby](./algorithms/medium/divide_two_integers.rb)|Medium|
-
 |18|[4Sum](https://leetcode.com/problems/4sum) | [Ruby](./algorithms/medium/4sum.rb)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Ruby](./algorithms/medium/letter_combinations_of_a_phone_number.rb)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum) | [Ruby](./algorithms/medium/3sum.rb)|Medium|
