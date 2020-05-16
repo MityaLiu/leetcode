@@ -5,6 +5,8 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree) | [Ruby](./algorithms/medium/minimum_time_to_collect_all_apples_in_a_tree.rb)|Medium|
+|1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [Ruby](./algorithms/medium/count_triplets_that_can_form_two_arrays_of_equal_xor.rb)|Medium|
+|1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | [Ruby](./algorithms/medium/longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.rb)|Medium|
 |1386|[Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) | [Ruby](./algorithms/medium/cinema_seat_allocation.rb)|Medium|
 |1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii) | [Ruby](./algorithms/medium/ugly_number_3.rb)|Medium|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [Ruby](./algorithms/medium/smallest_integer_divisible_by_k.rb)|Medium|
@@ -26,6 +28,7 @@
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem) | [Ruby](./algorithms/medium/water_and_jug_problem.rb)|Medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | [Ruby](./algorithms/medium/wiggle_sort_2.rb)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges) | [Ruby](./algorithms/medium/summary_ranges.rb)|Medium|
+|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | [Ruby](./algorithms/medium/contains_duplicate_3.rb)|Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Ruby](./algorithms/easy/contains_duplicate_2.rb)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Ruby](./algorithms/medium/kth_largest_element_in_an_array.rb)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array) | [Ruby](./algorithms/easy/rotate_array.rb)|Easy|
@@ -38,10 +41,13 @@
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | [Ruby](./algorithms/medium/fraction_to_recurring_decimal.rb)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [Ruby](./algorithms/easy/min_stack.rb)|Easy|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [Ruby](./algorithms/hard/find_minimum_in_rotated_sorted_array_2.rb)|Hard|
+|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [Ruby](./algorithms/medium/reverse_words_in_a_string.rb)|Medium|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | [Ruby](./algorithms/hard/max_points_on_a_line.rb)|Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number) | [Ruby](./algorithms/easy/single_number.rb)|Easy|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | [Ruby](./algorithms/hard/word_ladder_2.rb)|Hard|
+|120|[Triangle](https://leetcode.com/problems/triangle) | [Ruby](./algorithms/medium/triangle.rb)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Ruby](./algorithms/medium/validate_binary_search_tree.rb)|Medium|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [Ruby](./algorithms/medium/unique_binary_search_trees_2.rb)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Ruby](./algorithms/medium/binary_tree_inorder_traversal.rb)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways) | [Ruby](./algorithms/medium/decode_ways.rb)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Ruby](./algorithms/easy/remove_duplicates_from_sorted_list.rb)|Easy|
