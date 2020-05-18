@@ -4,6 +4,13 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1453|[Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard) | [Ruby](./algorithms/hard/maximum_number_of_darts_inside_of_a_circular_dartboard.rb)|Hard|
+|1452|[People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | [Ruby](./algorithms/medium/people_whose_list_of_favorite_companies_is_not_a_subset_of_another_list.rb)|Medium|
+|1451|[Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence) | [Ruby](./algorithms/medium/rearrange_words_in_a_sentence.rb)|Medium|
+|1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | [Ruby](./algorithms/easy/number_of_students_doing_homework_at_a_given_time.rb)|Easy|
+|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | [Ruby](./algorithms/medium/count_good_nodes_in_binary_tree.rb)|Medium|
+|1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions) | [Ruby](./algorithms/medium/simplified_fractions.rb)|Medium|
+|1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | [Ruby](./algorithms/easy/consecutive_characters.rb)|Easy|
 |1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree) | [Ruby](./algorithms/medium/minimum_time_to_collect_all_apples_in_a_tree.rb)|Medium|
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [Ruby](./algorithms/medium/count_triplets_that_can_form_two_arrays_of_equal_xor.rb)|Medium|
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | [Ruby](./algorithms/medium/longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.rb)|Medium|
@@ -26,7 +33,9 @@
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Ruby](./algorithms/easy/diameter_of_binary_tree.rb)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Ruby](./algorithms/easy/k_diff_pairs_in_an_array.rb)|Easy|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [Ruby](./algorithms/easy/minimum_absolute_difference_in_bst.rb)|Easy|
+|494|[Target Sum](https://leetcode.com/problems/target-sum) | [Ruby](./algorithms/medium/target_sum.rb)|Medium|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop) | [Ruby](./algorithms/medium/circular_array_loop.rb)|Medium|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii) | [Ruby](./algorithms/easy/path_sum_3.rb)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Ruby](./algorithms/easy/fizz_buzz.rb)|Easy|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [Ruby](./algorithms/medium/remove_k_digits.rb)|Medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters) | [Ruby](./algorithms/medium/longest_substring_with_at_least_k_repeating_characters.rb)|Medium|
