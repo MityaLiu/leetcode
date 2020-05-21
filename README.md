@@ -14,7 +14,16 @@
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | [Ruby](./algorithms/easy/consecutive_characters.rb)|Easy|
 |1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree) | [Ruby](./algorithms/medium/minimum_time_to_collect_all_apples_in_a_tree.rb)|Medium|
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [Ruby](./algorithms/medium/count_triplets_that_can_form_two_arrays_of_equal_xor.rb)|Medium|
+|1441|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations) | [Ruby](./algorithms/easy/build_an_array_with_stack_operations.rb)|Easy|
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | [Ruby](./algorithms/medium/longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.rb)|Medium|
+|1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | [Ruby](./algorithms/medium/check_if_all_1s_are_at_least_length_k_places_away.rb)|Medium|
+|1436|[Destination City](https://leetcode.com/problems/destination-city) | [Ruby](./algorithms/easy/destination_city.rb)|Easy|
+|1434|[Number of Ways to Wear Different Hats to Each Other (TLE)](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other) | [Ruby](./algorithms/hard/number_of_ways_to_wear_different_hats_to_each_other.rb)|Hard|
+|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [Ruby](./algorithms/easy/kids_with_the_greatest_number_of_candies.rb)|Easy|
+|1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Ruby](./algorithms/easy/maximum_score_after_splitting_a_string.rb)|Easy|
+|1417|[Reformat The String](https://leetcode.com/problems/reformat-the-string) | [Ruby](./algorithms/easy/reformat_the_string.rb)|Easy|
+|1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array) | [Ruby](./algorithms/easy/string_matching_in_an_array.rb)|Easy|
+|1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order) | [Ruby](./algorithms/easy/minimum_subsequence_in_non_increasing_order.rb)|Easy|
 |1386|[Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) | [Ruby](./algorithms/medium/cinema_seat_allocation.rb)|Medium|
 |1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii) | [Ruby](./algorithms/medium/ugly_number_3.rb)|Medium|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [Ruby](./algorithms/medium/smallest_integer_divisible_by_k.rb)|Medium|
@@ -52,6 +61,7 @@
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Ruby](./algorithms/easy/intersection_of_two_arrays.rb)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Ruby](./algorithms/medium/top_k_frequent_elements.rb)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string) | [Ruby](./algorithms/easy/reverse_string.rb)|Easy|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [Ruby](./algorithms/medium/odd_even_linked_list.rb)|Medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | [Ruby](./algorithms/medium/wiggle_sort_2.rb)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges) | [Ruby](./algorithms/medium/summary_ranges.rb)|Medium|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | [Ruby](./algorithms/medium/contains_duplicate_3.rb)|Medium|
