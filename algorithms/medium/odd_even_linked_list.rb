@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Definition for singly-linked list.
 # class ListNode
 #     attr_accessor :val, :next
@@ -15,7 +17,7 @@ def odd_even_list(head)
   even = head.next
   even_head = even
 
-  while even && even.next
+  while even&.next
     odd.next = even.next
     odd = odd.next
 
