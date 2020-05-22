@@ -13,6 +13,9 @@ Layout/ArgumentAlignment:
 Layout/DotPosition:
   EnforcedStyle: trailing
 
+Layout/EmptyLinesAroundAttributeAccessor:
+  Enabled: true
+
 Layout/EndAlignment:
   EnforcedStyleAlignWith: variable
 
@@ -49,6 +52,9 @@ Layout/ParameterAlignment:
 
 Layout/SpaceAroundMethodCallOperator:
   Enabled: true
+
+Lint/DeprecatedOpenSSLConstant:
+  Enabled: false
 
 Lint/EmptyWhen:
   Enabled: false
@@ -101,8 +107,20 @@ Style/ClassAndModuleChildren:
 Style/Documentation:
   Enabled: false
 
+Style/ExponentialNotation:
+  Enabled: true
+
 Style/GuardClause:
   Enabled: false
+
+Style/HashEachMethods:
+  Enabled: true
+
+Style/HashTransformKeys:
+  Enabled: true
+
+Style/HashTransformValues:
+  Enabled: true
 
 Style/IfInsideElse:
   Enabled: false
@@ -119,14 +137,5 @@ Style/NumericLiterals:
 Style/NumericPredicate:
   Enabled: false
 
-Style/HashEachMethods:
-  Enabled: true
-
-Style/HashTransformKeys:
-  Enabled: true
-
-Style/HashTransformValues:
-  Enabled: true
-
-Style/ExponentialNotation:
-  Enabled: true
+Style/SlicingWithRange:
+  Enabled: false
