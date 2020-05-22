@@ -19,12 +19,22 @@
 |1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | [Ruby](./algorithms/medium/check_if_all_1s_are_at_least_length_k_places_away.rb)|Medium|
 |1436|[Destination City](https://leetcode.com/problems/destination-city) | [Ruby](./algorithms/easy/destination_city.rb)|Easy|
 |1434|[Number of Ways to Wear Different Hats to Each Other (TLE)](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other) | [Ruby](./algorithms/hard/number_of_ways_to_wear_different_hats_to_each_other.rb)|Hard|
+|1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [Ruby](./algorithms/medium/check_if_a_string_can_break_another_string.rb)|Medium|
+|1432|[Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer) | [Ruby](./algorithms/medium/max_difference_you_can_get_from_changing_an_integer.rb)|Medium|
+|1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii) | [Ruby](./algorithms/medium/diagonal_traverse_2.rb)|Medium|
+|1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | [Ruby](./algorithms/medium/maximum_points_you_can_obtain_from_cards.rb)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [Ruby](./algorithms/easy/kids_with_the_greatest_number_of_candies.rb)|Easy|
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Ruby](./algorithms/easy/maximum_score_after_splitting_a_string.rb)|Easy|
 |1417|[Reformat The String](https://leetcode.com/problems/reformat-the-string) | [Ruby](./algorithms/easy/reformat_the_string.rb)|Easy|
+|1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) | [Ruby](./algorithms/easy/minimum_value_to_get_positive_step_by_step_sum.rb)|Easy|
 |1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array) | [Ruby](./algorithms/easy/string_matching_in_an_array.rb)|Easy|
 |1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order) | [Ruby](./algorithms/easy/minimum_subsequence_in_non_increasing_order.rb)|Easy|
+|1399|[Count Largest Group](https://leetcode.com/problems/count-largest-group) | [Ruby](./algorithms/easy/count_largest_group.rb)|Easy|
+|1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | [Ruby](./algorithms/easy/find_lucky_integer_in_an_array.rb)|Easy|
+|1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Ruby](./algorithms/easy/create_target_array_in_the_given_order.rb)|Easy|
 |1386|[Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) | [Ruby](./algorithms/medium/cinema_seat_allocation.rb)|Medium|
+|1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | [Ruby](./algorithms/easy/find_the_distance_value_between_two_arrays.rb)|Easy|
+|1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | [Ruby](./algorithms/easy/lucky_numbers_in_a_matrix.rb)|Easy|
 |1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii) | [Ruby](./algorithms/medium/ugly_number_3.rb)|Medium|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [Ruby](./algorithms/medium/smallest_integer_divisible_by_k.rb)|Medium|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) | [Ruby](./algorithms/easy/magic_squares_in_grid.rb)|Easy|
