@@ -73,7 +73,16 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string) | [Ruby](./algorithms/easy/reverse_string.rb)|Easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [Ruby](./algorithms/medium/odd_even_linked_list.rb)|Medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | [Ruby](./algorithms/medium/wiggle_sort_2.rb)|Medium|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Ruby](./algorithms/medium/longest_increasing_subsequence.rb)|Medium|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life) | [Ruby](./algorithms/medium/game_of_life.rb)|Medium|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Ruby](./algorithms/easy/valid_anagram.rb)|Easy|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Ruby](./algorithms/medium/search_a_2d_matrix_2.rb)|Medium|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Ruby](./algorithms/medium/product_of_array_except_self.rb)|Medium|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Ruby](./algorithms/easy/delete_node_in_a_linked_list.rb)|Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Ruby](./algorithms/easy/palindrome_linked_list.rb)|Easy|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [Ruby](./algorithms/medium/kth_smallest_element_in_a_bst.rb)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges) | [Ruby](./algorithms/medium/summary_ranges.rb)|Medium|
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | [Ruby](./algorithms/medium/basic_calculator_2.rb)|Medium|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | [Ruby](./algorithms/medium/contains_duplicate_3.rb)|Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Ruby](./algorithms/easy/contains_duplicate_2.rb)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Ruby](./algorithms/medium/kth_largest_element_in_an_array.rb)|Medium|
@@ -85,6 +94,7 @@
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [Ruby](./algorithms/easy/excel_sheet_column_title.rb)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Ruby](./algorithms/easy/two_sum_2.rb)|Easy|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | [Ruby](./algorithms/medium/fraction_to_recurring_decimal.rb)|Medium|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Ruby](./algorithms/easy/intersection_of_two_linked_lists.rb)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [Ruby](./algorithms/easy/min_stack.rb)|Easy|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [Ruby](./algorithms/hard/find_minimum_in_rotated_sorted_array_2.rb)|Hard|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [Ruby](./algorithms/medium/reverse_words_in_a_string.rb)|Medium|
