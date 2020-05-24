@@ -44,6 +44,8 @@
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Ruby](./algorithms/medium/daily_temperatures.rb)|Medium|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) | [Ruby](./algorithms/medium/split_linked_list_in_parts.rb)|Medium|
 |722|[Remove Comments](https://leetcode.com/problems/remove-comments) | [Ruby](./algorithms/medium/remove_comments.rb)|Medium|
+|720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary) | [Ruby](./algorithms/easy/longest_word_in_dictionary.rb)|Easy|
+|690|[Employee Importance](https://leetcode.com/problems/employee-importance) | [Ruby](./algorithms/easy/employee_importance.rb)|Easy|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) | [Ruby](./algorithms/medium/split_array_into_consecutive_subsequences.rb)|Medium|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | [Ruby](./algorithms/medium/find_duplicate_subtrees.rb)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Ruby](./algorithms/medium/palindromic_substrings.rb)|Medium|
@@ -52,6 +54,7 @@
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | [Ruby](./algorithms/easy/construct_string_from_binary_tree.rb)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | [Ruby](./algorithms/easy/shortest_unsorted_continuous_subarray.rb)|Easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | [Ruby](./algorithms/easy/binary_tree_tilt.rb)|Easy|
+|559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Ruby](./algorithms/easy/maximum_depth_of_n_ary_tree.rb)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Ruby](./algorithms/easy/diameter_of_binary_tree.rb)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Ruby](./algorithms/easy/k_diff_pairs_in_an_array.rb)|Easy|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [Ruby](./algorithms/easy/minimum_absolute_difference_in_bst.rb)|Easy|
@@ -112,6 +115,8 @@
 |136|[Single Number](https://leetcode.com/problems/single-number) | [Ruby](./algorithms/easy/single_number.rb)|Easy|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | [Ruby](./algorithms/hard/word_ladder_2.rb)|Hard|
 |120|[Triangle](https://leetcode.com/problems/triangle) | [Ruby](./algorithms/medium/triangle.rb)|Medium|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Ruby](./algorithms/easy/minimum_depth_of_binary_tree.rb)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Ruby](./algorithms/medium/binary_tree_level_order_traversal.rb)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Ruby](./algorithms/medium/validate_binary_search_tree.rb)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | [Ruby](./algorithms/medium/unique_binary_search_trees.rb)|Medium|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [Ruby](./algorithms/medium/unique_binary_search_trees_2.rb)|Medium|
