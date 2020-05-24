@@ -37,6 +37,7 @@
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | [Ruby](./algorithms/easy/lucky_numbers_in_a_matrix.rb)|Easy|
 |1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii) | [Ruby](./algorithms/medium/ugly_number_3.rb)|Medium|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [Ruby](./algorithms/medium/smallest_integer_divisible_by_k.rb)|Medium|
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [Ruby](./algorithms/medium/rotting_oranges.rb)|Medium|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) | [Ruby](./algorithms/easy/magic_squares_in_grid.rb)|Easy|
 |837|[New 21 Game](https://leetcode.com/problems/new-21-game) | [Ruby](./algorithms/medium/new_21_game.rb)|Medium|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [Ruby](./algorithms/easy/minimum_absolute_difference_in_bst.rb)|Easy|
@@ -73,8 +74,10 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string) | [Ruby](./algorithms/easy/reverse_string.rb)|Easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [Ruby](./algorithms/medium/odd_even_linked_list.rb)|Medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | [Ruby](./algorithms/medium/wiggle_sort_2.rb)|Medium|
+|322|[Coin Change](https://leetcode.com/problems/coin-change) | [Ruby](./algorithms/medium/coin_change.rb)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Ruby](./algorithms/medium/longest_increasing_subsequence.rb)|Medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life) | [Ruby](./algorithms/medium/game_of_life.rb)|Medium|
+|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words) | [Ruby](./algorithms/hard/integer_to_english_words.rb)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Ruby](./algorithms/easy/valid_anagram.rb)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Ruby](./algorithms/medium/search_a_2d_matrix_2.rb)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Ruby](./algorithms/medium/product_of_array_except_self.rb)|Medium|
@@ -86,6 +89,13 @@
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | [Ruby](./algorithms/medium/contains_duplicate_3.rb)|Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Ruby](./algorithms/easy/contains_duplicate_2.rb)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Ruby](./algorithms/medium/kth_largest_element_in_an_array.rb)|Medium|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Ruby](./algorithms/easy/reverse_linked_list.rb)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes) | [Ruby](./algorithms/easy/count_primes.rb)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number) | [Ruby](./algorithms/easy/happy_number.rb)|Easy|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands) | [Ruby](./algorithms/medium/number_of_islands.rb)|Medium|
+|198|[House Robber](https://leetcode.com/problems/house-robber) | [Ruby](./algorithms/easy/house_robber.rb)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Ruby](./algorithms/easy/number_of_1_bits.rb)|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Ruby](./algorithms/easy/reverse_bits.rb)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array) | [Ruby](./algorithms/easy/rotate_array.rb)|Easy|
 |179|[Largest Number](https://leetcode.com/problems/largest-number) | [Ruby](./algorithms/medium/largest_number.rb)|Medium|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Ruby](./algorithms/easy/factorial_trailing_zeroes.rb)|Easy|
