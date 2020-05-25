@@ -107,6 +107,7 @@
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [Ruby](./algorithms/easy/excel_sheet_column_title.rb)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Ruby](./algorithms/easy/two_sum_2.rb)|Easy|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | [Ruby](./algorithms/medium/fraction_to_recurring_decimal.rb)|Medium|
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) | [Ruby](./algorithms/medium/compare_version_numbers.rb)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Ruby](./algorithms/easy/intersection_of_two_linked_lists.rb)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [Ruby](./algorithms/easy/min_stack.rb)|Easy|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [Ruby](./algorithms/hard/find_minimum_in_rotated_sorted_array_2.rb)|Hard|
@@ -138,6 +139,7 @@
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Ruby](./algorithms/medium/divide_two_integers.rb)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Ruby](./algorithms/hard/reverse_nodes_in_k_group.rb)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Ruby](./algorithms/medium/swap_nodes_in_pairs.rb)|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Ruby](./algorithms/hard/merge_k_sorted_lists.rb)|Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Ruby](./algorithms/medium/generate_parentheses.rb)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Ruby](./algorithms/easy/merge_two_sorted_lists.rb)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Ruby](./algorithms/easy/valid_parentheses.rb)|Easy|
