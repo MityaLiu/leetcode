@@ -61,6 +61,7 @@
 |494|[Target Sum](https://leetcode.com/problems/target-sum) | [Ruby](./algorithms/medium/target_sum.rb)|Medium|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop) | [Ruby](./algorithms/medium/circular_array_loop.rb)|Medium|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | [Ruby](./algorithms/medium/sort_characters_by_frequency.rb)|Medium|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | [Ruby](./algorithms/medium/find_all_anagrams_in_a_string.rb)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii) | [Ruby](./algorithms/easy/path_sum_3.rb)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Ruby](./algorithms/easy/fizz_buzz.rb)|Easy|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [Ruby](./algorithms/medium/remove_k_digits.rb)|Medium|
@@ -138,12 +139,14 @@
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Ruby](./algorithms/hard/longest_valid_parentheses.rb)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation) | [Ruby](./algorithms/medium/next_permutation.rb)|Medium|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Ruby](./algorithms/medium/divide_two_integers.rb)|Medium|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Ruby](./algorithms/easy/remove_duplicates_from_sorted_array.rb)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Ruby](./algorithms/hard/reverse_nodes_in_k_group.rb)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Ruby](./algorithms/medium/swap_nodes_in_pairs.rb)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Ruby](./algorithms/hard/merge_k_sorted_lists.rb)|Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Ruby](./algorithms/medium/generate_parentheses.rb)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Ruby](./algorithms/easy/merge_two_sorted_lists.rb)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Ruby](./algorithms/easy/valid_parentheses.rb)|Easy|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Ruby](./algorithms/medium/remove_nth_node_from_end_of_list.rb)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum) | [Ruby](./algorithms/medium/4sum.rb)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Ruby](./algorithms/medium/letter_combinations_of_a_phone_number.rb)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum) | [Ruby](./algorithms/medium/3sum.rb)|Medium|
