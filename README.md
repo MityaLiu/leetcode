@@ -126,6 +126,7 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Ruby](./algorithms/easy/remove_duplicates_from_sorted_list.rb)|Easy|
 |79|[Word Search](https://leetcode.com/problems/word-search) | [Ruby](./algorithms/medium/word_search.rb)|Medium|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path) | [Ruby](./algorithms/medium/simplify_path.rb)|Medium|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Ruby](./algorithms/easy/sqrtx.rb)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one) | [Ruby](./algorithms/easy/plus_one.rb)|Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number) | [Ruby](./algorithms/hard/valid_number.rb)|Hard|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list) | [Ruby](./algorithms/medium/rotate_list.rb)|Medium|
