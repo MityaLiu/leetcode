@@ -32,7 +32,7 @@ def next_permutation(nums)
   end
 
   nums[i], nums[j] = nums[j], nums[i]
-  nums[(i + 1)..-1] = nums[(i + 1)..-1].reverse!
+  nums[(i + 1)..-1] = nums[(i + 1)..-1].reverse
 
   nil
 end
