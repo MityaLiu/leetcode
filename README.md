@@ -117,28 +117,41 @@
 |136|[Single Number](https://leetcode.com/problems/single-number) | [Ruby](./algorithms/easy/single_number.rb)|Easy|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | [Ruby](./algorithms/hard/word_ladder_2.rb)|Hard|
 |120|[Triangle](https://leetcode.com/problems/triangle) | [Ruby](./algorithms/medium/triangle.rb)|Medium|
+|112|[Path Sum](https://leetcode.com/problems/path-sum) | [Ruby](./algorithms/easy/path_sum.rb)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Ruby](./algorithms/easy/minimum_depth_of_binary_tree.rb)|Easy|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | [Ruby](./algorithms/easy/binary_tree_level_order_traversal_2.rb)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Ruby](./algorithms/easy/maximum_depth_of_binary_tree.rb)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Ruby](./algorithms/medium/binary_tree_level_order_traversal.rb)|Medium|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Ruby](./algorithms/easy/symmetric_tree.rb)|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree) | [Ruby](./algorithms/easy/same_tree.rb)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Ruby](./algorithms/medium/validate_binary_search_tree.rb)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | [Ruby](./algorithms/medium/unique_binary_search_trees.rb)|Medium|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [Ruby](./algorithms/medium/unique_binary_search_trees_2.rb)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Ruby](./algorithms/medium/binary_tree_inorder_traversal.rb)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways) | [Ruby](./algorithms/medium/decode_ways.rb)|Medium|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Ruby](./algorithms/easy/merge_sorted_array.rb)|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Ruby](./algorithms/easy/remove_duplicates_from_sorted_list.rb)|Easy|
 |79|[Word Search](https://leetcode.com/problems/word-search) | [Ruby](./algorithms/medium/word_search.rb)|Medium|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path) | [Ruby](./algorithms/medium/simplify_path.rb)|Medium|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Ruby](./algorithms/easy/climbing_stairs.rb)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Ruby](./algorithms/easy/sqrtx.rb)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary) | [Ruby](./algorithms/easy/add_binary.rb)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one) | [Ruby](./algorithms/easy/plus_one.rb)|Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number) | [Ruby](./algorithms/hard/valid_number.rb)|Hard|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list) | [Ruby](./algorithms/medium/rotate_list.rb)|Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Ruby](./algorithms/easy/length_of_last_word.rb)|Easy|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval) | [Ruby](./algorithms/hard/insert_interval.rb)|Hard|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Ruby](./algorithms/medium/merge_intervals.rb)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game) | [Ruby](./algorithms/medium/jump_game.rb)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Ruby](./algorithms/easy/maximum_subarray.rb)|Easy|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n) | [Ruby](./algorithms/medium/pow_x_n.rb)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Ruby](./algorithms/hard/trapping_rain_water.rb)|Hard|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Ruby](./algorithms/easy/search_insert_position.rb)|Easy|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [Ruby](./algorithms/hard/longest_valid_parentheses.rb)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation) | [Ruby](./algorithms/medium/next_permutation.rb)|Medium|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Ruby](./algorithms/medium/divide_two_integers.rb)|Medium|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Ruby](./algorithms/easy/implement_strstr.rb)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element) | [Ruby](./algorithms/easy/remove_element.rb)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Ruby](./algorithms/easy/remove_duplicates_from_sorted_array.rb)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Ruby](./algorithms/hard/reverse_nodes_in_k_group.rb)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Ruby](./algorithms/medium/swap_nodes_in_pairs.rb)|Medium|
