@@ -18,8 +18,8 @@ end
 
 private def dfs(p, q)
   case [p, q].compact.size
-  when 0 then return true
-  when 1 then return false
+  when 0 then true
+  when 1 then false
   else
     p.val == q.val && dfs(p.left, q.left) && dfs(p.right, q.right)
   end
