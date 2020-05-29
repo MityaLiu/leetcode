@@ -82,19 +82,24 @@
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Ruby](./algorithms/medium/longest_increasing_subsequence.rb)|Medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life) | [Ruby](./algorithms/medium/game_of_life.rb)|Medium|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words) | [Ruby](./algorithms/hard/integer_to_english_words.rb)|Hard|
+|258|[Add Digits](https://leetcode.com/problems/add-digits) | [Ruby](./algorithms/easy/add_digits.rb)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Ruby](./algorithms/easy/valid_anagram.rb)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Ruby](./algorithms/medium/search_a_2d_matrix_2.rb)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Ruby](./algorithms/medium/product_of_array_except_self.rb)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Ruby](./algorithms/easy/delete_node_in_a_linked_list.rb)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Ruby](./algorithms/easy/palindrome_linked_list.rb)|Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two) | [Ruby](./algorithms/easy/power_of_two.rb)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [Ruby](./algorithms/medium/kth_smallest_element_in_a_bst.rb)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges) | [Ruby](./algorithms/medium/summary_ranges.rb)|Medium|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | [Ruby](./algorithms/medium/basic_calculator_2.rb)|Medium|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | [Ruby](./algorithms/medium/contains_duplicate_3.rb)|Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Ruby](./algorithms/easy/contains_duplicate_2.rb)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Ruby](./algorithms/easy/contains_duplicate.rb)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Ruby](./algorithms/medium/kth_largest_element_in_an_array.rb)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Ruby](./algorithms/easy/reverse_linked_list.rb)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Ruby](./algorithms/easy/isomorphic_strings.rb)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes) | [Ruby](./algorithms/easy/count_primes.rb)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Ruby](./algorithms/easy/remove_linked_list_elements.rb)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number) | [Ruby](./algorithms/easy/happy_number.rb)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands) | [Ruby](./algorithms/medium/number_of_islands.rb)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber) | [Ruby](./algorithms/easy/house_robber.rb)|Easy|
@@ -116,7 +121,10 @@
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | [Ruby](./algorithms/hard/max_points_on_a_line.rb)|Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number) | [Ruby](./algorithms/easy/single_number.rb)|Easy|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | [Ruby](./algorithms/hard/word_ladder_2.rb)|Hard|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Ruby](./algorithms/easy/valid_palindrome.rb)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Ruby](./algorithms/easy/best_time_to_buy_and_sell_stock.rb)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle) | [Ruby](./algorithms/medium/triangle.rb)|Medium|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Ruby](./algorithms/easy/pascals_triangle.rb)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum) | [Ruby](./algorithms/easy/path_sum.rb)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Ruby](./algorithms/easy/minimum_depth_of_binary_tree.rb)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | [Ruby](./algorithms/easy/binary_tree_level_order_traversal_2.rb)|Easy|
