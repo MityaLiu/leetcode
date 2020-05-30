@@ -4,6 +4,8 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays) | [Ruby](./algorithms/easy/make_two_arrays_equal_by_reversing_sub_arrays.rb)|Easy|
+|1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Ruby](./algorithms/easy/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.rb)|Easy|
 |1453|[Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard) | [Ruby](./algorithms/hard/maximum_number_of_darts_inside_of_a_circular_dartboard.rb)|Hard|
 |1452|[People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | [Ruby](./algorithms/medium/people_whose_list_of_favorite_companies_is_not_a_subset_of_another_list.rb)|Medium|
 |1451|[Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence) | [Ruby](./algorithms/medium/rearrange_words_in_a_sentence.rb)|Medium|
@@ -35,6 +37,12 @@
 |1386|[Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) | [Ruby](./algorithms/medium/cinema_seat_allocation.rb)|Medium|
 |1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | [Ruby](./algorithms/easy/find_the_distance_value_between_two_arrays.rb)|Easy|
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | [Ruby](./algorithms/easy/lucky_numbers_in_a_matrix.rb)|Easy|
+|1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Ruby](./algorithms/easy/generate_a_string_with_characters_that_have_odd_counts.rb)|Easy|
+|1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [Ruby](./algorithms/easy/how_many_numbers_are_smaller_than_the_current_number.rb)|Easy|
+|1360|[Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates) | [Ruby](./algorithms/easy/number_of_days_between_two_dates.rb)|Easy|
+|1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | [Ruby](./algorithms/easy/sort_integers_by_the_number_of_1_bits.rb)|Easy|
+|1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | [Ruby](./algorithms/easy/count_negative_numbers_in_a_sorted_matrix.rb)|Easy|
+|1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | [Ruby](./algorithms/easy/check_if_n_and_its_double_exist.rb)|Easy|
 |1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii) | [Ruby](./algorithms/medium/ugly_number_3.rb)|Medium|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [Ruby](./algorithms/medium/smallest_integer_divisible_by_k.rb)|Medium|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [Ruby](./algorithms/medium/rotting_oranges.rb)|Medium|
