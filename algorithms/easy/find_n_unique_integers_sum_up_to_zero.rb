@@ -5,7 +5,7 @@
 def sum_zero(n)
   result = []
 
-  (n/2).times { |i| result += [-i - 1, i + 1] }
+  (n / 2).times { |i| result += [-i - 1, i + 1] }
 
   result << 0 if n.odd?
 

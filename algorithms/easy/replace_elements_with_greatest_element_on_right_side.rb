@@ -10,7 +10,7 @@ def replace_elements(arr)
     subarray = arr[i + 1..-1]
     max = subarray.max
     index = i + 1 + subarray.index(max)
-    arr[i..index-1] = [max] * (index - i)
+    arr[i..index - 1] = [max] * (index - i)
     i = index
   end
 
