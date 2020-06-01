@@ -4,6 +4,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | [Ruby](./algorithms/easy/maximum_product_of_two_elements_in_an_array.rb)|Easy|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays) | [Ruby](./algorithms/easy/make_two_arrays_equal_by_reversing_sub_arrays.rb)|Easy|
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Ruby](./algorithms/easy/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.rb)|Easy|
 |1453|[Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard) | [Ruby](./algorithms/hard/maximum_number_of_darts_inside_of_a_circular_dartboard.rb)|Hard|
@@ -52,16 +53,39 @@
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | [Ruby](./algorithms/easy/find_n_unique_integers_sum_up_to_zero.rb)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side) | [Ruby](./algorithms/easy/replace_elements_with_greatest_element_on_right_side.rb)|Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | [Ruby](./algorithms/easy/find_numbers_with_even_number_of_digits.rb)|Easy|
+|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Ruby](./algorithms/easy/convert_binary_number_in_a_linked_list_to_integer.rb)|Easy|
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [Ruby](./algorithms/easy/subtract_the_product_and_sum_of_digits_of_an_integer.rb)|Easy|
+|1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [Ruby](./algorithms/easy/cells_with_odd_values_in_a_matrix.rb)|Easy|
+|1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | [Ruby](./algorithms/easy/split_a_string_in_balanced_strings.rb)|Easy|
+|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Ruby](./algorithms/easy/unique_number_of_occurrences.rb)|Easy|
 |1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii) | [Ruby](./algorithms/medium/ugly_number_3.rb)|Medium|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Ruby](./algorithms/easy/defanging_an_ip_address.rb)|Easy|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [Ruby](./algorithms/medium/smallest_integer_divisible_by_k.rb)|Medium|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [Ruby](./algorithms/medium/rotting_oranges.rb)|Medium|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Ruby](./algorithms/easy/squares_of_a_sorted_array.rb)|Easy|
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [Ruby](./algorithms/easy/n_repeated_element_in_size_2n_array.rb)|Easy|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [Ruby](./algorithms/easy/range_sum_of_bst.rb)|Easy|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Ruby](./algorithms/easy/sort_array_by_parity.rb)|Easy|
+|884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | [Ruby](./algorithms/easy/uncommon_words_from_two_sentences.rb)|Easy|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Ruby](./algorithms/easy/middle_of_the_linked_list.rb)|Easy|
+|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Ruby](./algorithms/easy/leaf_similar_trees.rb)|Easy|
+|868|[Binary Gap](https://leetcode.com/problems/binary-gap) | [Ruby](./algorithms/easy/binary_gap.rb)|Easy|
+|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [Ruby](./algorithms/easy/transpose_matrix.rb)|Easy|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Ruby](./algorithms/easy/lemonade_change.rb)|Easy|
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [Ruby](./algorithms/easy/peak_index_in_a_mountain_array.rb)|Easy|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) | [Ruby](./algorithms/easy/magic_squares_in_grid.rb)|Easy|
 |837|[New 21 Game](https://leetcode.com/problems/new-21-game) | [Ruby](./algorithms/medium/new_21_game.rb)|Medium|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image) | [Ruby](./algorithms/easy/flipping_an_image.rb)|Easy|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Ruby](./algorithms/easy/unique_morse_code_words.rb)|Easy|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [Ruby](./algorithms/easy/minimum_absolute_difference_in_bst.rb)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Ruby](./algorithms/easy/jewels_and_stones.rb)|Easy|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Ruby](./algorithms/medium/daily_temperatures.rb)|Medium|
+|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Ruby](./algorithms/easy/self_dividing_numbers.rb)|Easy|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) | [Ruby](./algorithms/medium/split_linked_list_in_parts.rb)|Medium|
 |722|[Remove Comments](https://leetcode.com/problems/remove-comments) | [Ruby](./algorithms/medium/remove_comments.rb)|Medium|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary) | [Ruby](./algorithms/easy/longest_word_in_dictionary.rb)|Easy|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case) | [Ruby](./algorithms/easy/to_lower_case.rb)|Easy|
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Ruby](./algorithms/easy/search_in_a_binary_search_tree.rb)|Easy|
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance) | [Ruby](./algorithms/easy/employee_importance.rb)|Easy|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) | [Ruby](./algorithms/medium/split_array_into_consecutive_subsequences.rb)|Medium|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | [Ruby](./algorithms/medium/find_duplicate_subtrees.rb)|Medium|
@@ -69,8 +93,10 @@
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler) | [Ruby](./algorithms/medium/task_scheduler.rb)|Medium|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Ruby](./algorithms/easy/merge_two_binary_trees.rb)|Easy|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | [Ruby](./algorithms/easy/construct_string_from_binary_tree.rb)|Easy|
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Ruby](./algorithms/easy/n_ary_tree_preorder_traversal.rb)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | [Ruby](./algorithms/easy/shortest_unsorted_continuous_subarray.rb)|Easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | [Ruby](./algorithms/easy/binary_tree_tilt.rb)|Easy|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i) | [Ruby](./algorithms/easy/array_partition_1.rb)|Easy|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Ruby](./algorithms/easy/maximum_depth_of_n_ary_tree.rb)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Ruby](./algorithms/easy/diameter_of_binary_tree.rb)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Ruby](./algorithms/easy/k_diff_pairs_in_an_array.rb)|Easy|
