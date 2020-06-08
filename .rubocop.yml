@@ -62,6 +62,9 @@ Lint/EmptyWhen:
 Lint/LiteralAsCondition:
   Enabled: false
 
+Lint/MixedRegexpCaptureTypes:
+  Enabled: true
+
 Lint/RaiseException:
   Enabled: true
 
@@ -136,6 +139,12 @@ Style/NumericLiterals:
 
 Style/NumericPredicate:
   Enabled: false
+
+Style/RedundantRegexpCharacterClass:
+  Enabled: true
+
+Style/RedundantRegexpEscape:
+  Enabled: true
 
 Style/SlicingWithRange:
   Enabled: false

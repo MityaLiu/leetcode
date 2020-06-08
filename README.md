@@ -1,6 +1,7 @@
 # Leetcode solutions
 [![Circle CI](https://circleci.com/gh/MityaLiu/leetcode.svg?style=shield)](https://circleci.com/gh/MityaLiu/leetcode)
 [![Code Climate](https://codeclimate.com/github/MityaLiu/leetcode/badges/gpa.svg)](https://codeclimate.com/github/MityaLiu/leetcode)
+[![Dependabot](https://badgen.net/dependabot/MityaLiu/leetcode?icon=dependabot)](https://badgen.net/dependabot/MityaLiu/leetcode?icon=dependabot)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
