@@ -4,6 +4,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [Ruby](./algorithms/easy/shuffle_the_array.rb)|Easy|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | [Ruby](./algorithms/easy/maximum_product_of_two_elements_in_an_array.rb)|Easy|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays) | [Ruby](./algorithms/easy/make_two_arrays_equal_by_reversing_sub_arrays.rb)|Easy|
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Ruby](./algorithms/easy/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.rb)|Easy|
@@ -71,6 +72,7 @@
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | [Ruby](./algorithms/easy/minimum_absolute_difference.rb)|Easy|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | [Ruby](./algorithms/easy/maximum_number_of_balloons.rb)|Easy|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week) | [Ruby](./algorithms/easy/day_of_the_week.rb)|Easy|
+|1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character) | [Ruby](./algorithms/easy/compare_strings_by_frequency_of_the_smallest_character.rb)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | [Ruby](./algorithms/easy/find_words_that_can_be_formed_by_characters.rb)|Easy|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array) | [Ruby](./algorithms/easy/relative_sort_array.rb)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Ruby](./algorithms/easy/defanging_an_ip_address.rb)|Easy|
@@ -91,6 +93,7 @@
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Ruby](./algorithms/easy/add_to_array_form_of_integer.rb)|Easy|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries) | [Ruby](./algorithms/easy/sum_of_even_numbers_after_queries.rb)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Ruby](./algorithms/easy/squares_of_a_sorted_array.rb)|Easy|
+|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | [Ruby](./algorithms/easy/largest_perimeter_triangle.rb)|Easy|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | [Ruby](./algorithms/easy/univalued_binary_tree.rb)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [Ruby](./algorithms/easy/n_repeated_element_in_size_2n_array.rb)|Easy|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [Ruby](./algorithms/easy/delete_columns_to_make_sorted.rb)|Easy|
@@ -106,6 +109,7 @@
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array) | [Ruby](./algorithms/easy/monotonic_array.rb)|Easy|
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings) | [Ruby](./algorithms/easy/groups_of_special_equivalent_strings.rb)|Easy|
 |892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes) | [Ruby](./algorithms/easy/surface_area_of_3d_shapes.rb)|Easy|
+|888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | [Ruby](./algorithms/easy/fair_candy_swap.rb)|Easy|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | [Ruby](./algorithms/easy/uncommon_words_from_two_sentences.rb)|Easy|
 |883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes) | [Ruby](./algorithms/easy/projection_area_of_3d_shapes.rb)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Ruby](./algorithms/easy/middle_of_the_linked_list.rb)|Easy|
