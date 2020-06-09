@@ -4,13 +4,12 @@
 # @return {Integer}
 def largest_perimeter(a)
   a.sort!.reverse!
-  size = a.size
 
   sides = []
 
-  (0..size - 3).each do |i|
-    if triangle(a[i..i + 2])
-      sides = a[i..i + 2]
+  a.each_cons(3) do |subarray|
+    if triangle(subarray)
+      sides = subarray
       break
     end
   end
