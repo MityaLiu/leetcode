@@ -113,6 +113,9 @@ Style/Documentation:
 Style/ExponentialNotation:
   Enabled: true
 
+Style/FormatStringToken:
+  Enabled: false
+
 Style/GuardClause:
   Enabled: false
 
