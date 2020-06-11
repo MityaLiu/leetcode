@@ -29,10 +29,10 @@ private def max_left_or_right(grid)
 end
 
 private def rotate(grid)
-  grid.each_with_object([]).with_index do |(row, result), i|
+  grid.each_with_object([]) do |row, result|
     row.each_with_index do |v, j|
       result[j] ||= []
-      result[j][i] = v
+      result[j] << v
     end
   end
 end

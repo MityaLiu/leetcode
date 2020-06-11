@@ -5,11 +5,12 @@
 def max_points(points)
   return points.size if points.uniq.size < 2
 
-  points.each_with_object([]).with_index do |(point, result), index|
-    next if index == points.size - 1
+  points.map.with_index do |point, index|
+    next -Float::INFINITY if index == points.size - 1
 
     same_points = 1
-    q = points.drop(index + 1).each_with_object([]) do |po, sub_result|
+
+    q = points.drop(index + 1).map do |po|
       if point == po
         same_points += 1
       else
@@ -20,9 +21,10 @@ def max_points(points)
 
         # g = 1 if g.zero?
 
-        sub_result << "#{x / g},#{y / g}"
+        "#{x / g},#{y / g}"
       end
     end
-    result << q.uniq.map { |c| q.count(c) }.max.to_i + same_points
+
+    q.uniq.map { |c| q.count(c) }.max.to_i + same_points
   end.max
 end

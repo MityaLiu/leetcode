@@ -3,7 +3,7 @@
 # @param {String[]} ops
 # @return {Integer}
 def cal_points(ops)
-  ops.each_with_object([]).with_index do |(op, result), _i|
+  ops.each_with_object([]) do |op, result|
     case op
     when 'C'
       result.pop
