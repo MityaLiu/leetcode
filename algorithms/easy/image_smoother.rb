@@ -6,8 +6,8 @@ def image_smoother(m)
   height = m.size
   width = m[0].size
 
-  m.each_with_object([]).with_index do |(_row, result), y|
-    result[y] = Array.new(width) { |x| smooth(m, y, x, height, width) }
+  Array.new(height) do |y|
+    Array.new(width) { |x| smooth(m, y, x, height, width) }
   end
 end
 
