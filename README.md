@@ -5,6 +5,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [Ruby](./algorithms/easy/final_prices_with_a_special_discount_in_a_shop.rb)|Easy|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [Ruby](./algorithms/easy/shuffle_the_array.rb)|Easy|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | [Ruby](./algorithms/easy/maximum_product_of_two_elements_in_an_array.rb)|Easy|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays) | [Ruby](./algorithms/easy/make_two_arrays_equal_by_reversing_sub_arrays.rb)|Easy|
@@ -87,6 +88,7 @@
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | [Ruby](./algorithms/easy/distribute_candies_to_people.rb)|Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | [Ruby](./algorithms/easy/duplicate_zeros.rb)|Easy|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram) | [Ruby](./algorithms/easy/occurrences_after_bigram.rb)|Easy|
+|1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements) | [Ruby](./algorithms/easy/prime_arrangements.rb)|Easy|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [Ruby](./algorithms/easy/greatest_common_divisor_of_strings.rb)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker) | [Ruby](./algorithms/easy/height_checker.rb)|Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Ruby](./algorithms/easy/remove_all_adjacent_duplicates_in_string.rb)|Easy|
@@ -114,9 +116,11 @@
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | [Ruby](./algorithms/easy/largest_perimeter_triangle.rb)|Easy|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | [Ruby](./algorithms/easy/univalued_binary_tree.rb)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [Ruby](./algorithms/easy/n_repeated_element_in_size_2n_array.rb)|Easy|
+|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | [Ruby](./algorithms/easy/verifying_an_alien_dictionary.rb)|Easy|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [Ruby](./algorithms/easy/delete_columns_to_make_sorted.rb)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match) | [Ruby](./algorithms/easy/di_string_match.rb)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [Ruby](./algorithms/easy/range_sum_of_bst.rb)|Easy|
+|937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files) | [Ruby](./algorithms/easy/reorder_data_in_log_files.rb)|Easy|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | [Ruby](./algorithms/easy/number_of_recent_calls.rb)|Easy|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Ruby](./algorithms/easy/unique_email_addresses.rb)|Easy|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | [Ruby](./algorithms/easy/sort_array_by_parity_2.rb)|Easy|
@@ -153,6 +157,7 @@
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Ruby](./algorithms/medium/max_increase_to_keep_city_skyline.rb)|Medium|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | [Ruby](./algorithms/easy/number_of_lines_to_write_string.rb)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Ruby](./algorithms/easy/unique_morse_code_words.rb)|Easy|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string) | [Ruby](./algorithms/easy/rotate_string.rb)|Easy|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits) | [Ruby](./algorithms/easy/rotated_digits.rb)|Easy|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation) | [Ruby](./algorithms/easy/letter_case_permutation.rb)|Easy|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [Ruby](./algorithms/easy/minimum_absolute_difference_in_bst.rb)|Easy|
@@ -160,6 +165,7 @@
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | [Ruby](./algorithms/easy/toeplitz_matrix.rb)|Easy|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | [Ruby](./algorithms/easy/prime_number_of_set_bits_in_binary_representation.rb)|Easy|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) | [Ruby](./algorithms/easy/shortest_completing_word.rb)|Easy|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Ruby](./algorithms/easy/min_cost_climbing_stairs.rb)|Easy|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Ruby](./algorithms/medium/daily_temperatures.rb)|Medium|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill) | [Ruby](./algorithms/easy/flood_fill.rb)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Ruby](./algorithms/easy/self_dividing_numbers.rb)|Easy|
@@ -212,8 +218,10 @@
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | [Ruby](./algorithms/easy/convert_bst_to_greater_tree.rb)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Ruby](./algorithms/easy/k_diff_pairs_in_an_array.rb)|Easy|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [Ruby](./algorithms/easy/minimum_absolute_difference_in_bst.rb)|Easy|
+|521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [Ruby](./algorithms/easy/longest_uncommon_subsequence_1.rb)|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital) | [Ruby](./algorithms/easy/detect_capital.rb)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [Ruby](./algorithms/easy/fibonacci_number.rb)|Easy|
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks) | [Ruby](./algorithms/easy/relative_ranks.rb)|Easy|
 |504|[Base 7](https://leetcode.com/problems/base-7) | [Ruby](./algorithms/easy/base_7.rb)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Ruby](./algorithms/easy/keyboard_row.rb)|Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Ruby](./algorithms/easy/next_greater_element_1.rb)|Easy|
@@ -223,8 +231,10 @@
 |475|[Heaters](https://leetcode.com/problems/heaters) | [Ruby](./algorithms/easy/heaters.rb)|Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter) | [Ruby](./algorithms/easy/island_perimeter.rb)|Easy|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop) | [Ruby](./algorithms/medium/circular_array_loop.rb)|Medium|
+|453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) | [Ruby](./algorithms/easy/minimum_moves_to_equal_array_elements.rb)|Easy|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | [Ruby](./algorithms/medium/sort_characters_by_frequency.rb)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [Ruby](./algorithms/easy/find_all_numbers_disappeared_in_an_array.rb)|Easy|
+|447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | [Ruby](./algorithms/easy/number_of_boomerangs.rb)|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins) | [Ruby](./algorithms/easy/arranging_coins.rb)|Easy|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | [Ruby](./algorithms/medium/find_all_anagrams_in_a_string.rb)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii) | [Ruby](./algorithms/easy/path_sum_3.rb)|Easy|
