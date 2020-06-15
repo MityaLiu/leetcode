@@ -113,6 +113,9 @@ Style/Documentation:
 Style/ExponentialNotation:
   Enabled: true
 
+Style/FormatString:
+  Enabled: false
+
 Style/FormatStringToken:
   Enabled: false
 
