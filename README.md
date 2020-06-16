@@ -1,11 +1,12 @@
 # Leetcode solutions
 [![Circle CI](https://circleci.com/gh/MityaLiu/leetcode.svg?style=shield)](https://circleci.com/gh/MityaLiu/leetcode)
-[![Dependabot](https://badgen.net/dependabot/MityaLiu/leetcode?icon=dependabot)](https://badgen.net/dependabot/MityaLiu/leetcode?icon=dependabot)
+[![Dependabot](https://badgen.net/dependabot/thepracticaldev/dev.to?icon=dependabot)](https://badgen.net/dependabot/thepracticaldev/dev.to?icon=dependabot)
 [![Code Climate](https://codeclimate.com/github/MityaLiu/leetcode/badges/gpa.svg)](https://codeclimate.com/github/MityaLiu/leetcode)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|5453|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Ruby](./algorithms/easy/running_sum_of_1d_array.rb)|Easy|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Ruby](./algorithms/easy/running_sum_of_1d_array.rb)|Easy|
+|1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries) | [Ruby](./algorithms/medium/subrectangle_queries.rb)|Medium|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [Ruby](./algorithms/easy/final_prices_with_a_special_discount_in_a_shop.rb)|Easy|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [Ruby](./algorithms/easy/shuffle_the_array.rb)|Easy|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | [Ruby](./algorithms/easy/maximum_product_of_two_elements_in_an_array.rb)|Easy|
@@ -195,6 +196,7 @@
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game) | [Ruby](./algorithms/easy/baseball_game.rb)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Ruby](./algorithms/easy/valid_palindrome_2.rb)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | [Ruby](./algorithms/easy/longest_continuous_increasing_subsequence.rb)|Easy|
+|671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) | [Ruby](./algorithms/easy/second_minimum_node_in_a_binary_tree.rb)|Easy|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | [Ruby](./algorithms/easy/trim_a_binary_search_tree.rb)|Easy|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | [Ruby](./algorithms/easy/non_decreasing_array.rb)|Easy|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother) | [Ruby](./algorithms/easy/image_smoother.rb)|Easy|
@@ -213,6 +215,7 @@
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | [Ruby](./algorithms/easy/construct_string_from_binary_tree.rb)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [Ruby](./algorithms/easy/can_place_flowers.rb)|Easy|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | [Ruby](./algorithms/easy/minimum_index_sum_of_two_lists.rb)|Easy|
+|598|[Range Addition II](https://leetcode.com/problems/range-addition-ii) | [Ruby](./algorithms/easy/range_addition_2.rb)|Easy|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | [Ruby](./algorithms/easy/longest_harmonious_subsequence.rb)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Ruby](./algorithms/easy/n_ary_tree_preorder_traversal.rb)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | [Ruby](./algorithms/easy/shortest_unsorted_continuous_subarray.rb)|Easy|
@@ -225,26 +228,34 @@
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Ruby](./algorithms/easy/reverse_words_in_a_string_3.rb)|Easy|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | [Ruby](./algorithms/easy/student_attendance_record_1.rb)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Ruby](./algorithms/easy/diameter_of_binary_tree.rb)|Easy|
+|541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Ruby](./algorithms/easy/reverse_string_2.rb)|Easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | [Ruby](./algorithms/easy/convert_bst_to_greater_tree.rb)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Ruby](./algorithms/easy/k_diff_pairs_in_an_array.rb)|Easy|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [Ruby](./algorithms/easy/minimum_absolute_difference_in_bst.rb)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [Ruby](./algorithms/easy/longest_uncommon_subsequence_1.rb)|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital) | [Ruby](./algorithms/easy/detect_capital.rb)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [Ruby](./algorithms/easy/fibonacci_number.rb)|Easy|
+|507|[Perfect Number](https://leetcode.com/problems/perfect-number) | [Ruby](./algorithms/easy/perfect_number.rb)|Easy|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks) | [Ruby](./algorithms/easy/relative_ranks.rb)|Easy|
 |504|[Base 7](https://leetcode.com/problems/base-7) | [Ruby](./algorithms/easy/base_7.rb)|Easy|
+|501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) | [Ruby](./algorithms/easy/find_mode_in_binary_search_tree.rb)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Ruby](./algorithms/easy/keyboard_row.rb)|Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Ruby](./algorithms/easy/next_greater_element_1.rb)|Easy|
 |494|[Target Sum](https://leetcode.com/problems/target-sum) | [Ruby](./algorithms/medium/target_sum.rb)|Medium|
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | [Ruby](./algorithms/easy/construct_the_rectangle.rb)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [Ruby](./algorithms/easy/max_consecutive_ones.rb)|Easy|
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting) | [Ruby](./algorithms/easy/license_key_formatting.rb)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement) | [Ruby](./algorithms/easy/number_complement.rb)|Easy|
 |475|[Heaters](https://leetcode.com/problems/heaters) | [Ruby](./algorithms/easy/heaters.rb)|Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter) | [Ruby](./algorithms/easy/island_perimeter.rb)|Easy|
+|459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | [Ruby](./algorithms/easy/repeated_substring_pattern.rb)|Easy|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop) | [Ruby](./algorithms/medium/circular_array_loop.rb)|Medium|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies) | [Ruby](./algorithms/easy/assign_cookies.rb)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) | [Ruby](./algorithms/easy/minimum_moves_to_equal_array_elements.rb)|Easy|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | [Ruby](./algorithms/medium/sort_characters_by_frequency.rb)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [Ruby](./algorithms/easy/find_all_numbers_disappeared_in_an_array.rb)|Easy|
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | [Ruby](./algorithms/easy/number_of_boomerangs.rb)|Easy|
+|443|[String Compression](https://leetcode.com/problems/string-compression) | [Ruby](./algorithms/easy/string_compression.rb)|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins) | [Ruby](./algorithms/easy/arranging_coins.rb)|Easy|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | [Ruby](./algorithms/medium/find_all_anagrams_in_a_string.rb)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii) | [Ruby](./algorithms/easy/path_sum_3.rb)|Easy|
