@@ -56,6 +56,7 @@
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | [Ruby](./algorithms/easy/the_k_weakest_rows_in_a_matrix.rb)|Easy|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Ruby](./algorithms/easy/remove_palindromic_subsequences.rb)|Easy|
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array) | [Ruby](./algorithms/easy/rank_transform_of_an_array.rb)|Easy|
+|1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | [Ruby](./algorithms/medium/sort_the_matrix_diagonally.rb)|Medium|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | [Ruby](./algorithms/easy/maximum_69_number.rb)|Easy|
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | [Ruby](./algorithms/easy/convert_integer_to_the_sum_of_two_no_zero_integers.rb)|Easy|
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) | [Ruby](./algorithms/medium/sum_of_nodes_with_even_valued_grandparent.rb)|Medium|
