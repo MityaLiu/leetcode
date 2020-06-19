@@ -78,6 +78,7 @@
 |1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | [Ruby](./algorithms/easy/find_positive_integer_solution_for_a_given_equation.rb)|Easy|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | [Ruby](./algorithms/easy/check_if_it_is_a_straight_line.rb)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | [Ruby](./algorithms/easy/split_a_string_in_balanced_strings.rb)|Easy|
+|1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) | [Ruby](./algorithms/medium/path_with_maximum_gold.rb)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Ruby](./algorithms/easy/unique_number_of_occurrences.rb)|Easy|
 |1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii) | [Ruby](./algorithms/medium/ugly_number_3.rb)|Medium|
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | [Ruby](./algorithms/easy/minimum_absolute_difference.rb)|Easy|
