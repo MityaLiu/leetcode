@@ -51,6 +51,7 @@
 |1360|[Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates) | [Ruby](./algorithms/easy/number_of_days_between_two_dates.rb)|Easy|
 |1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | [Ruby](./algorithms/easy/sort_integers_by_the_number_of_1_bits.rb)|Easy|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | [Ruby](./algorithms/easy/count_negative_numbers_in_a_sorted_matrix.rb)|Easy|
+|1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | [Ruby](./algorithms/medium/minimum_number_of_steps_to_make_two_strings_anagram.rb)|Medium|
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | [Ruby](./algorithms/easy/check_if_n_and_its_double_exist.rb)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Ruby](./algorithms/easy/number_of_steps_to_reduce_a_number_to_zero.rb)|Easy|
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | [Ruby](./algorithms/easy/the_k_weakest_rows_in_a_matrix.rb)|Easy|
@@ -115,6 +116,7 @@
 |1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Ruby](./algorithms/easy/partition_array_into_three_parts_with_equal_sum.rb)|Easy|
 |1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | [Ruby](./algorithms/easy/pairs_of_songs_with_total_durations_divisible_by_60.rb)|Easy|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [Ruby](./algorithms/easy/complement_of_base_10_integer.rb)|Easy|
+|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [Ruby](./algorithms/medium/construct_binary_search_tree_from_reorder_traversal.rb)|Medium|
 |1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | [Ruby](./algorithms/easy/maximize_sum_of_array_after_k_negations.rb)|Easy|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters) | [Ruby](./algorithms/easy/find_common_characters.rb)|Easy|
 |999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) | [Ruby](./algorithms/easy/available_captures_for_rook.rb)|Easy|
@@ -128,6 +130,7 @@
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | [Ruby](./algorithms/easy/univalued_binary_tree.rb)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [Ruby](./algorithms/easy/n_repeated_element_in_size_2n_array.rb)|Easy|
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | [Ruby](./algorithms/easy/verifying_an_alien_dictionary.rb)|Easy|
+|950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [Ruby](./algorithms/medium/reveal_cards_in_increasing_order.rb)|Medium|
 |949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits) | [Ruby](./algorithms/easy/largest_time_for_given_digits.rb)|Easy|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [Ruby](./algorithms/easy/delete_columns_to_make_sorted.rb)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match) | [Ruby](./algorithms/easy/di_string_match.rb)|Easy|
@@ -165,11 +168,13 @@
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin) | [Ruby](./algorithms/easy/goat_latin.rb)|Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [Ruby](./algorithms/easy/shortest_distance_to_a_character.rb)|Easy|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word) | [Ruby](./algorithms/easy/most_common_word.rb)|Easy|
+|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning) | [Ruby](./algorithms/medium/binary_tree_pruning.rb)|Medium|
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area) | [Ruby](./algorithms/easy/largest_triangle_area.rb)|Easy|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | [Ruby](./algorithms/easy/subdomain_visit_count.rb)|Easy|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Ruby](./algorithms/medium/max_increase_to_keep_city_skyline.rb)|Medium|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | [Ruby](./algorithms/easy/number_of_lines_to_write_string.rb)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Ruby](./algorithms/easy/unique_morse_code_words.rb)|Easy|
+|797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [Ruby](./algorithms/medium/all_paths_from_source_to_target.rb)|Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string) | [Ruby](./algorithms/easy/rotate_string.rb)|Easy|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits) | [Ruby](./algorithms/easy/rotated_digits.rb)|Easy|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation) | [Ruby](./algorithms/easy/letter_case_permutation.rb)|Easy|
@@ -194,6 +199,7 @@
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset) | [Ruby](./algorithms/easy/design_hashset.rb)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search) | [Ruby](./algorithms/easy/binary_search.rb)|Easy|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | [Ruby](./algorithms/easy/kth_largest_element_in_a_stream.rb)|Easy|
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [Ruby](./algorithms/medium/insert_into_a_binary_search_tree.rb)|Medium|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Ruby](./algorithms/easy/search_in_a_binary_search_tree.rb)|Easy|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [Ruby](./algorithms/easy/degree_of_an_array.rb)|Easy|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [Ruby](./algorithms/easy/count_binary_substrings.rb)|Easy|
