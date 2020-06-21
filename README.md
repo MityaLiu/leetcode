@@ -44,6 +44,8 @@
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Ruby](./algorithms/easy/create_target_array_in_the_given_order.rb)|Easy|
 |1386|[Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) | [Ruby](./algorithms/medium/cinema_seat_allocation.rb)|Medium|
 |1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | [Ruby](./algorithms/easy/find_the_distance_value_between_two_arrays.rb)|Easy|
+|1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | [Ruby](./algorithms/medium/balance_a_binary_search_tree.rb)|Medium|
+|1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) | [Ruby](./algorithms/medium/design_a_stack_with_increment_operation.rb)|Medium|
 |1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | [Ruby](./algorithms/easy/lucky_numbers_in_a_matrix.rb)|Easy|
 |1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Ruby](./algorithms/easy/generate_a_string_with_characters_that_have_odd_counts.rb)|Easy|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string) | [Ruby](./algorithms/easy/increasing_decreasing_string.rb)|Easy|
@@ -74,6 +76,7 @@
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [Ruby](./algorithms/easy/subtract_the_product_and_sum_of_digits_of_an_integer.rb)|Easy|
 |1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game) | [Ruby](./algorithms/easy/find_winner_on_a_tic_tac_toe_game.rb)|Easy|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points) | [Ruby](./algorithms/easy/minimum_time_visiting_all_points.rb)|Easy|
+|1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | [Ruby](./algorithms/medium/find_elements_in_a_contaminated_binary_tree.rb)|Medium|
 |1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid) | [Ruby](./algorithms/easy/shift_2d_grid.rb)|Easy|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [Ruby](./algorithms/easy/cells_with_odd_values_in_a_matrix.rb)|Easy|
 |1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | [Ruby](./algorithms/easy/find_positive_integer_solution_for_a_given_equation.rb)|Easy|
