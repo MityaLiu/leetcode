@@ -42,6 +42,7 @@
 |1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams) | [Ruby](./algorithms/medium/count_number_of_teams.rb)|Medium|
 |1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | [Ruby](./algorithms/easy/find_lucky_integer_in_an_array.rb)|Easy|
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Ruby](./algorithms/easy/create_target_array_in_the_given_order.rb)|Easy|
+|1387|[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value) | [Ruby](./algorithms/medium/sort_integers_by_the_power_value.rb)|Medium|
 |1386|[Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) | [Ruby](./algorithms/medium/cinema_seat_allocation.rb)|Medium|
 |1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | [Ruby](./algorithms/easy/find_the_distance_value_between_two_arrays.rb)|Easy|
 |1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | [Ruby](./algorithms/medium/balance_a_binary_search_tree.rb)|Medium|
@@ -64,6 +65,7 @@
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | [Ruby](./algorithms/easy/maximum_69_number.rb)|Easy|
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | [Ruby](./algorithms/easy/convert_integer_to_the_sum_of_two_no_zero_integers.rb)|Easy|
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) | [Ruby](./algorithms/medium/sum_of_nodes_with_even_valued_grandparent.rb)|Medium|
+|1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum) | [Ruby](./algorithms/medium/matrix_block_sum.rb)|Medium|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Ruby](./algorithms/easy/decompress_run_length_encoded_list.rb)|Easy|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [Ruby](./algorithms/easy/decrypt_string_from_alphabet_to_integer_mapping.rb)|Easy|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) | [Ruby](./algorithms/medium/all_elements_in_two_binary_search_trees.rb)|Medium|
@@ -153,6 +155,7 @@
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array) | [Ruby](./algorithms/easy/monotonic_array.rb)|Easy|
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings) | [Ruby](./algorithms/easy/groups_of_special_equivalent_strings.rb)|Easy|
 |892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes) | [Ruby](./algorithms/easy/surface_area_of_3d_shapes.rb)|Easy|
+|890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Ruby](./algorithms/medium/find_and_replace_pattern.rb)|Medium|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | [Ruby](./algorithms/easy/fair_candy_swap.rb)|Easy|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | [Ruby](./algorithms/easy/uncommon_words_from_two_sentences.rb)|Easy|
 |883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes) | [Ruby](./algorithms/easy/projection_area_of_3d_shapes.rb)|Easy|
@@ -280,6 +283,7 @@
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | [Ruby](./algorithms/medium/find_all_anagrams_in_a_string.rb)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii) | [Ruby](./algorithms/easy/path_sum_3.rb)|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | [Ruby](./algorithms/easy/number_of_segments_in_a_string.rb)|Easy|
+|419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) | [Ruby](./algorithms/medium/battleships_in_a_board.rb)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings) | [Ruby](./algorithms/easy/add_strings.rb)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [Ruby](./algorithms/easy/third_maximum_number.rb)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Ruby](./algorithms/easy/fizz_buzz.rb)|Easy|
@@ -306,6 +310,7 @@
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Ruby](./algorithms/easy/reverse_vowels_of_a_string.rb)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string) | [Ruby](./algorithms/easy/reverse_string.rb)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four) | [Ruby](./algorithms/easy/power_of_four.rb)|Easy|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits) | [Ruby](./algorithms/medium/counting_bits.rb)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [Ruby](./algorithms/medium/odd_even_linked_list.rb)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three) | [Ruby](./algorithms/easy/power_of_three.rb)|Easy|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | [Ruby](./algorithms/medium/wiggle_sort_2.rb)|Medium|
