@@ -94,12 +94,14 @@
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week) | [Ruby](./algorithms/easy/day_of_the_week.rb)|Easy|
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops) | [Ruby](./algorithms/easy/distance_between_bus_stops.rb)|Easy|
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character) | [Ruby](./algorithms/easy/compare_strings_by_frequency_of_the_smallest_character.rb)|Easy|
+|1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | [Ruby](./algorithms/medium/maximum_level_sum_of_a_binary_tree.rb)|Medium|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | [Ruby](./algorithms/easy/find_words_that_can_be_formed_by_characters.rb)|Easy|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year) | [Ruby](./algorithms/easy/day_of_the_year.rb)|Easy|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | [Ruby](./algorithms/easy/n_th_tribonacci_number.rb)|Easy|
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | [Ruby](./algorithms/easy/number_of_equivalent_domino_pairs.rb)|Easy|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array) | [Ruby](./algorithms/easy/relative_sort_array.rb)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [Ruby](./algorithms/easy/defanging_an_ip_address.rb)|Easy|
+|1104|[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree) | [Ruby](./algorithms/medium/path_in_zigzag_labelled_binary_tree.rb)|Medium|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | [Ruby](./algorithms/easy/distribute_candies_to_people.rb)|Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | [Ruby](./algorithms/easy/duplicate_zeros.rb)|Easy|
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | [Ruby](./algorithms/medium/letter_tile_possibilities.rb)|Medium|
