@@ -67,6 +67,7 @@
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) | [Ruby](./algorithms/medium/sum_of_nodes_with_even_valued_grandparent.rb)|Medium|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum) | [Ruby](./algorithms/medium/matrix_block_sum.rb)|Medium|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Ruby](./algorithms/easy/decompress_run_length_encoded_list.rb)|Easy|
+|1310|[XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | [Ruby](./algorithms/medium/xor_queries_of_a_subarray.rb)|Medium|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [Ruby](./algorithms/easy/decrypt_string_from_alphabet_to_integer_mapping.rb)|Easy|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) | [Ruby](./algorithms/medium/all_elements_in_two_binary_search_trees.rb)|Medium|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | [Ruby](./algorithms/easy/find_n_unique_integers_sum_up_to_zero.rb)|Easy|
@@ -75,6 +76,7 @@
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | [Ruby](./algorithms/easy/find_numbers_with_even_number_of_digits.rb)|Easy|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Ruby](./algorithms/easy/convert_binary_number_in_a_linked_list_to_integer.rb)|Easy|
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array) | [Ruby](./algorithms/easy/element_appearing_more_than_25_in_sorted_array.rb)|Easy|
+|1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination) | [Ruby](./algorithms/medium/iterator_for_combination.rb)|Medium|
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | [Ruby](./algorithms/medium/group_the_people_given_the_group_size_they_belong_to.rb)|Medium|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [Ruby](./algorithms/easy/subtract_the_product_and_sum_of_digits_of_an_integer.rb)|Easy|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Ruby](./algorithms/medium/count_square_submatrices_with_all_ones.rb)|Medium|
@@ -85,6 +87,7 @@
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [Ruby](./algorithms/easy/cells_with_odd_values_in_a_matrix.rb)|Easy|
 |1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | [Ruby](./algorithms/easy/find_positive_integer_solution_for_a_given_equation.rb)|Easy|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | [Ruby](./algorithms/easy/check_if_it_is_a_straight_line.rb)|Easy|
+|1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king) | [Ruby](./algorithms/medium/queens_that_can_attack_the_king.rb)|Medium|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | [Ruby](./algorithms/easy/split_a_string_in_balanced_strings.rb)|Easy|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) | [Ruby](./algorithms/medium/path_with_maximum_gold.rb)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Ruby](./algorithms/easy/unique_number_of_occurrences.rb)|Easy|
@@ -254,6 +257,7 @@
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Ruby](./algorithms/easy/diameter_of_binary_tree.rb)|Easy|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Ruby](./algorithms/easy/reverse_string_2.rb)|Easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | [Ruby](./algorithms/easy/convert_bst_to_greater_tree.rb)|Easy|
+|537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | [Ruby](./algorithms/medium/complex_number_multiplication.rb)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | [Ruby](./algorithms/medium/encode_and_decode_tinyurl.rb)|Medium|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Ruby](./algorithms/easy/k_diff_pairs_in_an_array.rb)|Easy|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [Ruby](./algorithms/easy/minimum_absolute_difference_in_bst.rb)|Easy|
