@@ -11,6 +11,7 @@
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [Ruby](./algorithms/easy/shuffle_the_array.rb)|Easy|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | [Ruby](./algorithms/easy/maximum_product_of_two_elements_in_an_array.rb)|Easy|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays) | [Ruby](./algorithms/easy/make_two_arrays_equal_by_reversing_sub_arrays.rb)|Easy|
+|1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree) | [Ruby](./algorithms/medium/pseudo_palindromic_paths_in_a_binary_tree.rb)|Medium|
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Ruby](./algorithms/easy/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.rb)|Easy|
 |1453|[Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard) | [Ruby](./algorithms/hard/maximum_number_of_darts_inside_of_a_circular_dartboard.rb)|Hard|
 |1452|[People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | [Ruby](./algorithms/medium/people_whose_list_of_favorite_companies_is_not_a_subset_of_another_list.rb)|Medium|
