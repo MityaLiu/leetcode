@@ -15,7 +15,7 @@ end
 
 # @param {Integer[]} cost
 # @return {Integer}
-def min_cost_climbing_stairs(cost, reset_hash = true)
+def min_cost_climbing_stairs(cost, reset_hash: true)
   return 0 if cost.size < 2
 
   @h = {} if reset_hash # due to a bug in specs

@@ -15,7 +15,7 @@ def sum_of_left_leaves(root)
   dfs(root)
 end
 
-private def dfs(node, left = false)
+private def dfs(node, left: false)
   return 0 if node.nil?
 
   if is_leaf?(node)

@@ -21,10 +21,11 @@ def remove_comments(source)
         else
           t = line[i..i + 1]
 
-          if t == '/*'
+          case t
+          when '/*'
             blocked = true
             skip_char = true
-          elsif t == '//'
+          when '//'
             break
           else
             out += line[i]

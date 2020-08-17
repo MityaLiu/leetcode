@@ -2,6 +2,7 @@ require:
   - rubocop-performance
 
 AllCops:
+  NewCops: enable
   TargetRubyVersion: 2.6
   Exclude:
     - bin/*
@@ -53,6 +54,9 @@ Layout/ParameterAlignment:
 Layout/SpaceAroundMethodCallOperator:
   Enabled: true
 
+Lint/BinaryOperatorWithIdenticalOperands:
+  Enabled: false
+
 Lint/DeprecatedOpenSSLConstant:
   Enabled: false
 
@@ -90,7 +94,7 @@ Metrics/MethodLength:
   Max: 100
 
 Metrics/PerceivedComplexity:
-  Max: 15
+  Max: 20
 
 Naming/AccessorMethodName:
   Enabled: false
@@ -156,4 +160,7 @@ Style/RedundantRegexpEscape:
   Enabled: true
 
 Style/SlicingWithRange:
+  Enabled: false
+
+Style/StringConcatenation:
   Enabled: false
