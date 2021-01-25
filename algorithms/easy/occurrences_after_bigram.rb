@@ -5,7 +5,7 @@
 # @param {String} second
 # @return {String[]}
 def find_ocurrences(text, first, second)
-  a = text.split(' ')
+  a = text.split
   result = []
 
   until a.empty?

@@ -15,7 +15,15 @@ def remove_comments(source)
         next
       end
 
-      if !blocked
+      if blocked
+        if i < line.size - 1
+          t = line[i..i + 1]
+          if t == '*/'
+            blocked = false
+            skip_char = true
+          end
+        end
+      else
         if i == line.size - 1
           out += line[i]
         else
@@ -29,14 +37,6 @@ def remove_comments(source)
             break
           else
             out += line[i]
-          end
-        end
-      else
-        if i < line.size - 1
-          t = line[i..i + 1]
-          if t == '*/'
-            blocked = false
-            skip_char = true
           end
         end
       end
