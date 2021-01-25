@@ -7,8 +7,8 @@ def reorder_log_files(logs)
 end
 
 private def compare(a, b)
-  w1 = a.split(' ')
-  w2 = b.split(' ')
+  w1 = a.split
+  w2 = b.split
 
   alpha1 = w1[1].match?(/^[a-zA-Z]+$/)
   alpha2 = w2[1].match?(/^[a-zA-Z]+$/)

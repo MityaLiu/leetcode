@@ -4,7 +4,7 @@
 # @param {String} str
 # @return {Boolean}
 def word_pattern(pattern, str)
-  stra = str.split(' ')
+  stra = str.split
 
   return false if pattern.size != stra.size
 

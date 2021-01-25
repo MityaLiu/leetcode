@@ -7,5 +7,5 @@ def reformat(s)
 
   return '' if chars_and_nums.map(&:size).reduce(:-) > 1
 
-  chars_and_nums[0].zip(chars_and_nums[1]).flatten.join('')
+  chars_and_nums[0].zip(chars_and_nums[1]).flatten.join
 end

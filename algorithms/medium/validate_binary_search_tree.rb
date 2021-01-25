@@ -16,24 +16,24 @@ def is_valid_bst(root)
   curr = root
 
   while curr
-    if !curr.left # if left node absent
-      return false if prev && prev.val >= curr.val
-
-      prev = curr
-      curr = curr.right
-    else
+    if curr.left # if left node absent
       node = curr.left
       node = node.right while node.right && node.right != curr
-      if !node.right
-        node.right = curr
-        curr = curr.left
-      else
+      if node.right
         return false if prev && prev.val >= curr.val
 
         prev = curr
         node.right = nil
         curr = curr.right
+      else
+        node.right = curr
+        curr = curr.left
       end
+    else
+      return false if prev && prev.val >= curr.val
+
+      prev = curr
+      curr = curr.right
     end
   end
 

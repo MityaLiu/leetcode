@@ -6,7 +6,7 @@ def subdomain_visits(cpdomains)
   h = Hash.new(0)
 
   cpdomains.each do |cpdomain|
-    left, right = cpdomain.split(' ')
+    left, right = cpdomain.split
     left = left.to_i
 
     h[right] += left

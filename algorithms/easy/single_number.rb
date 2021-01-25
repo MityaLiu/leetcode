@@ -13,5 +13,5 @@ def single_number(nums)
     break if a != b
   end
 
-  a != b ? a : nums.last
+  a == b ? nums.last : a
 end
