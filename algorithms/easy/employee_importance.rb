@@ -22,7 +22,7 @@ private def dfs(employees, id)
 
   return 0 if employee.nil?
 
-  employee.importance + employee.subordinates.map { |e| dfs(employees, e) }.sum
+  employee.importance + employee.subordinates.sum { |e| dfs(employees, e) }
 end
 
 private def bfs(employees, id)
