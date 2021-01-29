@@ -20,7 +20,7 @@ private def bfs(node)
   result = []
 
   until queue.empty?
-    result << queue.map(&:val).sum.to_f / queue.size
+    result << queue.sum(&:val).to_f / queue.size
 
     queue.size.times do
       n = queue.shift

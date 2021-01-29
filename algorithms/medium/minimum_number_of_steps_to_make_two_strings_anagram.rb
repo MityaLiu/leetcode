@@ -9,5 +9,5 @@ def min_steps(s, t)
   s.each_char { |c| h[c] += 1 }
   t.each_char { |c| h[c] -= 1 }
 
-  h.values.map(&:abs).sum / 2
+  h.values.sum(&:abs) / 2
 end
