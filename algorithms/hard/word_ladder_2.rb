@@ -7,7 +7,7 @@ require 'set'
 # @param {String[]} word_list
 # @return {String[][]}\
 def find_ladders(begin_word, end_word, word_list)
-  return [] unless word_list.any? { |w| w == end_word }
+  return [] unless word_list.any?(end_word)
 
   @poss = {}
   @pats = {}
