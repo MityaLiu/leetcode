@@ -10,7 +10,7 @@ def diagonal_sort(mat)
   n = mat[0].size
 
   n.times do |i|
-    col = mat.map { |row| row[i] }.compact.sort
+    col = mat.filter_map { |row| row[i] }.sort
     mat.each_with_index { |row, j| mat[j][i] = col.shift if row[i] }
   end
 
