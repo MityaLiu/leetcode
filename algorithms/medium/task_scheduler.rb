@@ -10,5 +10,5 @@ def least_interval(tasks, n)
   mx = cnt.last
   i -= 1 while i >= 0 && cnt[i] == mx
 
-  [tasks.size, (mx - 1) * (n + 1) + 25 - i].max
+  [tasks.size, ((mx - 1) * (n + 1)) + 25 - i].max
 end

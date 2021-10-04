@@ -7,7 +7,7 @@ def trailing_zeroes(n)
 
   z = 0
   Math.log(n, 5).floor.times do |a|
-    z += n / 5**(a + 1)
+    z += n / (5**(a + 1))
   end
   z
 end

@@ -7,7 +7,7 @@ def compress(chars)
   i = 0
 
   while i < chars.size
-    index = chars[i..-1].index { |c| c != chars[i] } || chars.size - i
+    index = chars[i..-1].index { |c| c != chars[i] } || (chars.size - i)
 
     result << chars[i]
     result += index.to_s.chars if index > 1

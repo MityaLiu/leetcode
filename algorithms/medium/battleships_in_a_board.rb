@@ -25,10 +25,10 @@ def count_battleships(board)
       next if ships[coordinate]
 
       x, y = coordinate.divmod(n)
-      q << coordinate - n if     x > 0 && board[x - 1][y] == 'X'
-      q << coordinate + n if x + 1 < m && board[x + 1][y] == 'X'
-      q << coordinate - 1 if     y > 0 && board[x][y - 1] == 'X'
-      q << coordinate + 1 if y + 1 < n && board[x][y + 1] == 'X'
+      q << (coordinate - n) if     x > 0 && board[x - 1][y] == 'X'
+      q << (coordinate + n) if x + 1 < m && board[x + 1][y] == 'X'
+      q << (coordinate - 1) if     y > 0 && board[x][y - 1] == 'X'
+      q << (coordinate + 1) if y + 1 < n && board[x][y + 1] == 'X'
 
       ships[coordinate] = true
     end

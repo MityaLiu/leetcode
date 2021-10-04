@@ -25,10 +25,10 @@ def num_islands(grid)
       next if cmap[coordinate]
 
       x, y = coordinate.divmod(n)
-      q << coordinate - n if     x > 0 && grid[x - 1][y] == '1'
-      q << coordinate + n if x + 1 < m && grid[x + 1][y] == '1'
-      q << coordinate - 1 if     y > 0 && grid[x][y - 1] == '1'
-      q << coordinate + 1 if y + 1 < n && grid[x][y + 1] == '1'
+      q << (coordinate - n) if     x > 0 && grid[x - 1][y] == '1'
+      q << (coordinate + n) if x + 1 < m && grid[x + 1][y] == '1'
+      q << (coordinate - 1) if     y > 0 && grid[x][y - 1] == '1'
+      q << (coordinate + 1) if y + 1 < n && grid[x][y + 1] == '1'
 
       cmap[coordinate] = true
     end

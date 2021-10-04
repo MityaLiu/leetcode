@@ -32,7 +32,7 @@ private def to_16(num)
   result = ''
 
   digits.downto(0) do |pow|
-    result += ALPHABET[num / 16**pow]
+    result += ALPHABET[num / (16**pow)]
     num %= 16**pow
   end
 

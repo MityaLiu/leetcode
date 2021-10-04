@@ -9,7 +9,7 @@ def find_length_of_lcis(nums)
   i = 0
 
   while i < nums.size - 1
-    dist = nums[i..-1].index.with_index { |v, j| j > 0 && nums[i + j - 1] >= v } || nums.size - i
+    dist = nums[i..-1].index.with_index { |v, j| j > 0 && nums[i + j - 1] >= v } || (nums.size - i)
 
     i += dist
 

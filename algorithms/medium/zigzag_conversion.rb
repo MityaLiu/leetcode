@@ -6,7 +6,7 @@
 def convert(s, num_rows)
   return s if num_rows < 2
 
-  number_of_chars = num_rows * 2 - 2
+  number_of_chars = (num_rows * 2) - 2
 
   q = s.chars.each_with_object([]).with_index do |(c, result), i|
     div = i / number_of_chars

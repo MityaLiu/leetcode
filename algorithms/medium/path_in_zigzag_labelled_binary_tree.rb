@@ -16,7 +16,7 @@ def path_in_zig_zag_tree(label)
     result.unshift(label)
 
     min = 2**level
-    max = 2**(level + 1) - 1
+    max = (2**(level + 1)) - 1
 
     reversed_label = min + max - label
 

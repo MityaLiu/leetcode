@@ -22,7 +22,7 @@ end
 private def multiply(arr1, arr2)
   arr1.each_with_object([]) do |a1, result|
     arr2.each do |a2|
-      result << a1 + a2
+      result << (a1 + a2)
     end
   end
 end

@@ -10,5 +10,5 @@ def nth_ugly_number(n, a, b, c)
   ac = a.lcm(c)
   bc = b.lcm(c)
   abc = ab.lcm(c)
-  (1..(2 * 10**9)).bsearch { |m| m / a + m / b + m / c - m / ab - m / ac - m / bc + m / abc >= n }
+  (1..(2 * (10**9))).bsearch { |m| (m / a) + (m / b) + (m / c) - (m / ab) - (m / ac) - (m / bc) + (m / abc) >= n }
 end

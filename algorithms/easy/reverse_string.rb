@@ -5,7 +5,7 @@
 def reverse_string(s)
   size = s.size
 
-  (0..size / 2 - 1).each do |i|
+  (0..(size / 2) - 1).each do |i|
     s[i], s[size - 1 - i] = s[size - 1 - i], s[i]
   end
 

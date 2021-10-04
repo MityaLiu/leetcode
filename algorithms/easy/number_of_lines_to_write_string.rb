@@ -15,7 +15,7 @@ def number_of_lines(widths, s)
   total = 0
 
   s.each_char do |c|
-    remainder = 100 - total % 100
+    remainder = 100 - (total % 100)
 
     total += remainder if remainder < widths_h[c]
 

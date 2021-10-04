@@ -23,5 +23,5 @@ def add_strings(num1, num2)
   num1.reverse!
   num2.reverse!
 
-  size.times.sum { |i| (NUMS[num1[i]] + NUMS[num2[i]]) * 10**i }.to_s
+  size.times.sum { |i| (NUMS[num1[i]] + NUMS[num2[i]]) * (10**i) }.to_s
 end

@@ -12,7 +12,7 @@ private def power_of_an_integer(x)
   count = 0
 
   until x == 1
-    x.even? ? x /= 2 : x = 3 * x + 1
+    x.even? ? x /= 2 : x = (3 * x) + 1
     count += 1
   end
 

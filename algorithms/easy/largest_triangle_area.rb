@@ -13,5 +13,5 @@ def largest_triangle_area(points)
 end
 
 private def triangle_area(a, b, c)
-  (a[0] * (b[1] - c[1]) + b[0] * (c[1] - a[1]) + c[0] * (a[1] - b[1])).abs.to_f / 2
+  ((a[0] * (b[1] - c[1])) + (b[0] * (c[1] - a[1])) + (c[0] * (a[1] - b[1]))).abs.to_f / 2
 end

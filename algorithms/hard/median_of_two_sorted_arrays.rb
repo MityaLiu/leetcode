@@ -11,7 +11,7 @@ private def median(arr)
   arr.sort!
   length = arr.count
   if length.even?
-    arr.values_at(length / 2 - 1, length / 2).sum / 2.0
+    arr.values_at((length / 2) - 1, length / 2).sum / 2.0
   else
     arr.at(length / 2)
   end

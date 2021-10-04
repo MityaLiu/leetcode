@@ -30,12 +30,12 @@ class FindElements
     return unless node
 
     if node.left
-      node.left.val = node.val * 2 + 1
+      node.left.val = (node.val * 2) + 1
       fix_tree(node.left)
     end
 
     if node.right
-      node.right.val = node.val * 2 + 2
+      node.right.val = (node.val * 2) + 2
       fix_tree(node.right)
     end
 
