@@ -17,7 +17,7 @@ def max_points(points)
         x = point[0] - po[0]
         y = point[1] - po[1]
         g = x.gcd(y)
-        g = -g if x < 0 || x == 0 && y < 0
+        g = -g if x < 0 || (x == 0 && y < 0)
 
         # g = 1 if g.zero?
 

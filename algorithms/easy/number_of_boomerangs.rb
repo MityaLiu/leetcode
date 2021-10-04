@@ -15,5 +15,5 @@ def number_of_boomerangs(points)
 end
 
 private def sqr_distance(p1, p2)
-  (p1[0] - p2[0])**2 + (p1[1] - p2[1])**2
+  ((p1[0] - p2[0])**2) + ((p1[1] - p2[1])**2)
 end

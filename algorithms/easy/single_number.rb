@@ -6,10 +6,10 @@ def single_number(nums)
   nums.sort!
   a = nil
   b = nil
-  size = nums.size / 2 - 1
+  size = (nums.size / 2) - 1
 
   (0..size).each do |i|
-    a, b = nums.values_at(i * 2, i * 2 + 1)
+    a, b = nums.values_at(i * 2, (i * 2) + 1)
     break if a != b
   end
 

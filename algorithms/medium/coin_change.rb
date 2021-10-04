@@ -16,13 +16,13 @@ private def dfs(coins, start, target, cur)
   return if start < 0
 
   if (target % coins[start]).zero?
-    @res = [@res, cur + target / coins[start]].min
+    @res = [@res, cur + (target / coins[start])].min
     return
   end
 
   (target / coins[start]).downto(0) do |i|
     break if cur + i >= @res - 1
 
-    dfs(coins, start - 1, target - i * coins[start], cur + i)
+    dfs(coins, start - 1, target - (i * coins[start]), cur + i)
   end
 end

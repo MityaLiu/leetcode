@@ -12,7 +12,7 @@ def num_points(points, r)
     (i + 1..n - 1).each do |j|
       ds = distance(points[i], points[j])**2
 
-      next if ds == 0 || ds > 4 * r**2
+      next if ds == 0 || ds > 4 * (r**2)
 
       rq1, rq2 = center(points[i], points[j], r)
 
@@ -39,14 +39,14 @@ private def center(point1, point2, r)
   vy = (mid[1] - point1[1]) / half_d * r
 
   cos_t = (half_d / r)
-  sin_t = Math.sqrt(1.0 - cos_t**2)
+  sin_t = Math.sqrt(1.0 - (cos_t**2))
 
-  rq1 = [vx * cos_t - vy * sin_t + point1[0], vx * sin_t + vy * cos_t + point1[1]]
-  rq2 = [vx * cos_t + vy * sin_t + point1[0], -vx * sin_t + vy * cos_t + point1[1]]
+  rq1 = [(vx * cos_t) - (vy * sin_t) + point1[0], (vx * sin_t) + (vy * cos_t) + point1[1]]
+  rq2 = [(vx * cos_t) + (vy * sin_t) + point1[0], (-vx * sin_t) + (vy * cos_t) + point1[1]]
 
   [rq1, rq2]
 end
 
 private def distance(point1, point2)
-  Math.sqrt((point1[0] - point2[0])**2 + (point1[1] - point2[1])**2)
+  Math.sqrt(((point1[0] - point2[0])**2) + ((point1[1] - point2[1])**2))
 end

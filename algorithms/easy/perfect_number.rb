@@ -9,7 +9,7 @@ def check_perfect_number(num)
   i = 2
 
   while i**2 <= num
-    sum += i + num / i if (num % i).zero?
+    sum += i + (num / i) if (num % i).zero?
     i += 1
   end
 

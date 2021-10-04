@@ -13,7 +13,7 @@ private def dividers(n)
   (1..Math.sqrt(n).ceil).each_with_object([]) do |divider, result|
     if (n % divider).zero?
       result << divider
-      result << n / divider
+      result << (n / divider)
     end
   end
 end

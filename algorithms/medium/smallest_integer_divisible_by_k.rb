@@ -7,7 +7,7 @@ def smallest_repunit_div_by_k(k)
 
   r = 0
   (1..k).each do |i|
-    r = (r * 10 + 1) % k
+    r = ((r * 10) + 1) % k
 
     return i if r.zero?
   end

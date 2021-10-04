@@ -16,7 +16,7 @@ def num_decodings(s)
     second = s[i - 1].to_i
 
     count[i] = count[i - 1] if second > 0
-    count[i] += count[i - 2] if first == 1 || first == 2 && second < 7
+    count[i] += count[i - 2] if first == 1 || (first == 2 && second < 7)
   end
 
   count[size]

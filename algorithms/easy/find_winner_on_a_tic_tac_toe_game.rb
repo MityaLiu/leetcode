@@ -9,7 +9,7 @@ def tictactoe(moves)
   moves.each do |x, y|
     mark = turn ? 'X' : 'O'
     turn = !turn
-    grid[y * 3 + x] = mark
+    grid[(y * 3) + x] = mark
   end
 
   if winner?(grid, 'X')

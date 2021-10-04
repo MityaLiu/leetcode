@@ -9,5 +9,5 @@ def first_uniq_char(s)
   s.chars.each { |c| h[c] += 1 }
   o = h.find { |_k, v| v == 1 }
 
-  o && s.index(o[0]) || -1
+  (o && s.index(o[0])) || -1
 end

@@ -39,5 +39,5 @@ private def palendrom?(values)
 
   odd_count = h.values.count(&:odd?)
 
-  values.size.even? && odd_count.zero? || values.size.odd? && odd_count == 1
+  (values.size.even? && odd_count.zero?) || (values.size.odd? && odd_count == 1)
 end

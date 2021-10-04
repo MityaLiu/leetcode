@@ -8,5 +8,5 @@ def smallest_range_i(a, k)
 
   diff = a.max - a.min
 
-  [0, diff - 2 * k].max
+  [0, diff - (2 * k)].max
 end

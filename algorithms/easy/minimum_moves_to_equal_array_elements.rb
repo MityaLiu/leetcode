@@ -3,5 +3,5 @@
 # @param {Integer[]} nums
 # @return {Integer}
 def min_moves(nums)
-  nums.sum - nums.min * nums.count
+  nums.sum - (nums.min * nums.count)
 end

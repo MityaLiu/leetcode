@@ -29,7 +29,7 @@ def my_atoi(str)
   number = 0
 
   str.each_char.with_index do |c, i|
-    number += 10**(len - i - 1) * DICTIONARY[c]
+    number += (10**(len - i - 1)) * DICTIONARY[c]
   end
 
   number *= -1 if is_negative

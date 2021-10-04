@@ -14,7 +14,7 @@ def minimum_abs_difference(arr)
 
     diff = arr[i + 1] - num
 
-    min = diff if min.nil? || diff > 0 && min > diff
+    min = diff if min.nil? || (diff > 0 && min > diff)
   end
 
   arr.each_with_object([]).with_index do |(num, result), i|
