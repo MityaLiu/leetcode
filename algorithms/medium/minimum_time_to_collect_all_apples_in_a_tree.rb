@@ -6,7 +6,7 @@
 # @return {Integer}
 def min_time(_n, edges, has_apple)
   apples = has_apple.each_index.select { |i| has_apple[i] }
-  tree = edges.map { |k, v| [v, k] }.to_h
+  tree = edges.to_h { |k, v| [v, k] }
 
   apples.each_with_object([]) do |apple, nodes|
     while apple != 0
