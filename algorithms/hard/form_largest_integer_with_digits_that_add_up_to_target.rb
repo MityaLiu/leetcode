@@ -13,7 +13,7 @@ private def dfs(cost, target)
 
   s = ''
 
-  (0..8).each do |i|
+  9.times do |i|
     next unless cost[i] <= target
 
     t = dfs(cost, target - cost[i])
