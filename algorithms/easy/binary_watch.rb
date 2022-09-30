@@ -5,8 +5,8 @@
 def read_binary_watch(num)
   res = []
 
-  (0..11).each do |i|
-    (0..59).each do |j|
+  12.times do |i|
+    60.times do |j|
       res << format('%d:%02d', i, j) if num == popcount(i) + popcount(j)
     end
   end
