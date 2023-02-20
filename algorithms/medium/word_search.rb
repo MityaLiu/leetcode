@@ -4,7 +4,7 @@
 # @param {String} word
 # @return {Boolean}
 def exist(board, word)
-  return false if board.nil? || board.length.zero? || board[0].length.zero?
+  return false if board.nil? || board.empty? || board[0].empty?
 
   chars = word.chars
 
