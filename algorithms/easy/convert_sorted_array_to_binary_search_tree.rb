@@ -12,7 +12,7 @@
 # @param {Integer[]} nums
 # @return {TreeNode}
 def sorted_array_to_bst(nums)
-  return if nums.size.zero?
+  return if nums.empty?
 
   mid = nums.size / 2
 

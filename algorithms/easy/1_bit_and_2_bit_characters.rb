@@ -13,6 +13,6 @@ def is_one_bit_character(bits)
   when '1'
     false
   else
-    !bits.size.zero?
+    !bits.empty?
   end
 end
