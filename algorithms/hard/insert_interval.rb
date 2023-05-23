@@ -12,7 +12,7 @@ def insert(intervals, new_interval)
     intervals[i] = merge_intervals(intervals[i], new_interval)
   else
     intervals << new_interval
-    intervals.sort! { |a, b| a[0] <=> b[0] }
+    intervals.sort_by! { |a| a[0] }
   end
 
   join_covering_intervals(intervals)

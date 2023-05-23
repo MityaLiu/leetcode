@@ -3,7 +3,7 @@
 # @param {Integer[][]} intervals
 # @return {Integer[][]}
 def merge(intervals)
-  intervals.sort! { |a, b| a[0] <=> b[0] }
+  intervals.sort_by! { |a| a[0] }
 
   intervals.each_with_object([]) do |interval, result|
     changed = false
