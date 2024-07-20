@@ -86,6 +86,6 @@ end
 private def split(num)
   BN.each_with_object({}) do |(k, v), result|
     result[k] = num / v
-    num = num % v
+    num %= v
   end
 end

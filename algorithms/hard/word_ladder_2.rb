@@ -30,7 +30,7 @@ def find_ladders(begin_word, end_word, word_list)
 
     next_level = {}
 
-    level.each do |word, _|
+    level.each_key do |word|
       @pats[word].each do |pt|
         @poss[pt].each do |w|
           next if w == word

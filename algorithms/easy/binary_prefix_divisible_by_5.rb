@@ -6,7 +6,7 @@ def prefixes_div_by5(a)
   val = 0
 
   a.map do |v|
-    val = val << 1
+    val <<= 1
     val += v
 
     (val % 5).zero?
