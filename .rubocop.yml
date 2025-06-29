@@ -57,6 +57,9 @@ Layout/ParameterAlignment:
 Layout/SpaceAroundMethodCallOperator:
   Enabled: true
 
+Lint/AmbiguousRange:
+  Enabled: false
+
 Lint/BinaryOperatorWithIdenticalOperands:
   Enabled: false
 
@@ -103,6 +106,9 @@ Naming/AccessorMethodName:
   Enabled: false
 
 Naming/MethodParameterName:
+  Enabled: false
+
+Naming/PredicateMethod:
   Enabled: false
 
 Naming/PredicateName:

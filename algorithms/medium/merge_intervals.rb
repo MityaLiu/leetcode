@@ -24,7 +24,7 @@ private def overlaps?(interval1, interval2)
 end
 
 private def cover?(interval, val)
-  interval.first <= val && interval.last >= val
+  val.between?(interval.first, interval.last)
 end
 
 private def merge_intervals(interval1, interval2)
