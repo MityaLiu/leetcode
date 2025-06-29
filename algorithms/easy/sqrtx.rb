@@ -4,7 +4,7 @@
 # @return {Integer}
 def my_sqrt(x)
   return 0 if x < 1
-  return 1 if x >= 1 && x <= 3
+  return 1 if x.between?(1, 3)
 
   s = 1
   e = x / 2
