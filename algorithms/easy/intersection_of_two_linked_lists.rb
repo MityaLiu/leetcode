@@ -31,12 +31,12 @@ def get_intersection_node(head_a, head_b)
 end
 
 private def calc_size(list)
-  it = list
+  itt = list
   result = 0
 
-  while it
+  while itt
     result += 1
-    it = it.next
+    itt = itt.next
   end
 
   result
